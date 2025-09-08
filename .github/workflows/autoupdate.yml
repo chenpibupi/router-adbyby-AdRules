@@ -1,0 +1,89 @@
+name: Update Ad Rules
+
+on:
+  schedule:
+    - cron: '30 8,20 * * *'          # 北京时间 08:30 和 20:30
+  workflow_dispatch:                  # 手动触发
+  watch:
+    types: [started]                 # 别人 star 时触发
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup output directory
+        run: |
+          mkdir -p output
+
+      - name: Download and process rules from qq5460168/666
+        run: |
+          cd output
+
+          # === 下载两个原始文件 ===
+          wget -O rules.txt https://raw.githubusercontent.com/qq5460168/666/master/rules.txt
+          wget -O dns.txt https://raw.githubusercontent.com/qq5460168/666/master/dns.txt
+
+          # === 清洗和提取域名 ===
+          # 从 rules.txt 提取 ||domain.com^ 类型的域名
+          grep -E "^||[a-zA-Z]" rules.txt | \
+            sed -e 's/^||//' -e 's/\^.*$//' -e 's/^www\.//' | \
+            sort -u > domains-from-rules.txt
+
+          # 从 dns.txt 提取域名（格式如: server=/domain.com/）
+          # 去除注释、空行，提取 /domain/ 中的域名
+          grep -E "^server=/" dns.txt | \
+            sed -e 's|server=/\([^/]*\)/.*|\1|' | \
+            sort -u > domains-from-dns.txt
+
+          # 合并所有域名，去重
+          cat domains-from-rules.txt domains-from-dns.txt | \
+            grep -v "^$" | \
+            sort -u > all-domains.txt
+
+          # === 生成版本信息 ===
+          cur_date=$(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')
+          total=$(wc -l < all-domains.txt)
+
+          echo "# Version: $cur_date" > header.txt
+          echo "# Source: https://github.com/qq5460168/666" >> header.txt
+          echo "# Homepage: https://github.com/${{ github.repository }}" >> header.txt
+          echo "# Total domains: $total" >> header.txt
+          echo "" >> header.txt
+
+          # === 输出格式 1: hosts 格式 ===
+          awk '{print "0.0.0.0\t"$1}' all-domains.txt > hosts.txt
+          cat header.txt hosts.txt > tmp && mv tmp hosts.txt
+
+          # === 输出格式 2: dnsmasq 格式 ===
+          awk '{print "address=/"$1"/"}' all-domains.txt > dnsmasq.conf
+          cat header.txt dnsmasq.conf > tmp && mv tmp dnsmasq.conf
+
+          # === 输出格式 3: 纯域名列表 ===
+          cat header.txt all-domains.txt > domains.txt
+
+          # === （可选）保存原始文件副本 ===
+          cp ../rules.txt ../dns.txt . 2>/dev/null || true
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add output/
+          git diff-index --quiet HEAD || git commit -m "Auto update rules at $(date '+%Y-%m-%d %H:%M:%S')"
+          git push origin main
+
+      - name: Clean old workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          keep_minimum_runs: 2
+          retain_days: 0
