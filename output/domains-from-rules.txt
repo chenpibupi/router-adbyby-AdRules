@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27435
-! Version: 2025-09-11 16:32:16（北京时间）
+! Total count: 27477
+! Version: 2025-09-12 04:23:39（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-northeast-2.elb.amazonaws.com
@@ -191,6 +191,7 @@
 */effect_ad/splash_screen/*
 */game/abtest/*
 */guest/statuses_extend*
+*/omts.tc.qq.com
 */peak/download*
 */pgc/app/preload*
 */snscosdownload/*/reserved/*
@@ -6948,6 +6949,7 @@
 119.28.83.28:8099
 11g.yiqig.cn
 11jianzhan.com
+120.226.10.195
 120.232.202.5
 120.232.202.6
 120.232.202.7
@@ -6955,6 +6957,8 @@
 120.232.210.151
 120.232.210.153
 120.232.210.155
+120.232.58.157
+120.232.6.158
 120.26.63.182
 1205qitiao2022.xyz
 1206q3-giqvvwa1jie9-017.cbhdmir.cn
@@ -6989,8 +6993,8 @@
 127.0.0.1 localhost
 128tl.com
 13.107.246.73                 vscode.dev
+13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.42.16 pipelines.actions.githubusercontent.com
-13.107.43.16                  pipelines.actions.githubusercontent.com
 13.226.198.225 thetvdb.com
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
@@ -7002,18 +7006,18 @@
 138138138.top
 1381a.xyz
 13hangpifa.com
+140.82.112.18                 github.community
 140.82.112.18 github.community
-140.82.112.21                 central.github.com
-140.82.112.22                 api.individual.githubcopilot.com
-140.82.112.22                 collector.github.com
+140.82.112.21                 collector.github.com
+140.82.112.25                 live.github.com
 140.82.112.25 live.github.com
+140.82.113.21                 central.github.com
 140.82.113.21 collector.github.com
 140.82.113.22 central.github.com
-140.82.113.26                 alive.github.com
-140.82.113.26                 live.github.com
 140.82.113.26 alive.github.com
-140.82.114.17                 github.community
+140.82.114.22                 api.individual.githubcopilot.com
 140.82.114.22                 education.github.com
+140.82.114.26                 alive.github.com
 140.82.116.3 gist.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
@@ -7050,9 +7054,8 @@
 156.238.246.232 
 156zw.com/css/js/tools.js
 16.15.184.231 github-production-user-asset-6210df.s3.amazonaws.com
-16.15.217.187                 github-cloud.s3.amazonaws.com
-16.15.217.211                 github-com.s3.amazonaws.com
-16.182.69.57                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.189.124                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.182.98.169                 github-production-user-asset-6210df.s3.amazonaws.com
 1622.5w8eho.com
 163.com##.freeVip
 163.com##.js-open-app
@@ -7561,6 +7564,8 @@
 51y5.net
 51yes.com
 51zhanzhuang.cn
+52.216.171.75                 github-cloud.s3.amazonaws.com
+52.216.206.11                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.54.209 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.56.97 github-cloud.s3.amazonaws.com
 52.217.44.156 github-production-release-asset-2e65be.s3.amazonaws.com
@@ -7583,8 +7588,7 @@
 5345ll.com
 537901.com
 54.192.73.28 image.tmdb.org
-54.231.194.137                github-production-user-asset-6210df.s3.amazonaws.com
-54.231.204.113                github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.197.201                github-com.s3.amazonaws.com
 549htbet.com
 54askjdklm.xyz
 54dbg.xyz
@@ -10997,6 +11001,7 @@ ad.mcloud.139.com
 ad.mediabong.net
 ad.mesomorphosis.com
 ad.mi.com
+ad.midongtech.com
 ad.mnt123.com
 ad.mobile.youku.com
 ad.molitv.cn
@@ -11341,6 +11346,7 @@ adn.yolinkmob.com
 adnet.qq.com
 adnet.sohu.com
 adnetpub.yaolan.com
+adnetstatic.vivo.com.cn
 adnew.wifi8.com
 adnxs.com
 adnyg.com
@@ -11409,6 +11415,7 @@ ads-c-1854119718.us-west-1.elb.amazonaws.com
 ads-config.unityads.unity3d.com
 ads-d.viber.com
 ads-dev.pinterest.com
+ads-dot.midongtech.com
 ads-drcn.platform.hihonorcloud.com
 ads-img-al.xhscdn.com
 ads-img-bak.xhscdn.com
@@ -11463,6 +11470,7 @@ ads.lejuliang.com
 ads.lingyuexiu.cn
 ads.linkedin.com
 ads.log.kafka.top
+ads.midongtech.com
 ads.mojicdn.com
 ads.morefreegame.com
 ads.msn.com
@@ -11662,6 +11670,7 @@ adsview2.qq.com
 adsymptotic.com
 adsyndication.msn.com
 adsys.chinacloudapp.cn
+adsys.nineton.cn
 adsys.sinovision.net
 adsystem.wasu.tv
 adtago.s3.amazonaws.com
@@ -12484,6 +12493,7 @@ appsrv1.madserving.com
 appsrv4.madserving.com
 appstore.qzone.qq.com
 appstoreort-stsdk.vivo.com.cn
+appstorepnrt-stsdk.vivo.com.cn
 appsupdate.sinaapp.com
 appsupport.qq.com
 appsupport.stargame.com
@@ -13268,6 +13278,7 @@ br.realitykings.com
 brakefluid.website
 brand.sogou.com
 brandadsstatic.vivo.com.cn
+brandlog.vivo.com.cn
 brandshow.58.com
 brcache.madthumbs.com
 breenomeet.cc
@@ -13281,6 +13292,7 @@ bridgetnbe.com
 brizads.com
 bro.flyme.cn
 broadcast.chat.bilibili.com
+brort.stsdk.vivo.com.cn
 brownfox.top
 browser.events.data.msn.cn
 browser.gwdang.com
@@ -14190,6 +14202,8 @@ configv2.unityads.unity3d.com
 configv2.unityads.unitychina.cn
 confinfo.map.qq.com
 connect.summit.co.uk
+connection-center.vivo.com.cn
+connectivitycheck.vivo.com.cn
 connectreadoasis.com
 content-understand-strategy.sm.cn
 content.confong.cn
@@ -16000,6 +16014,7 @@ fbc.ffychb.com
 fbia.*.cn
 fc-ccimage.baidu.com
 fc-feed.cdn.bcebos.com
+fc-open-materiel.vivo.com.cn
 fc.gaizong.cn
 fc.tiepan.cn
 fc.zuixinchao.com
@@ -16101,6 +16116,7 @@ fillhr.xyz
 filter.appstore.vivo.com.cn
 fimserve.ign.com
 finance-gateway.diandian.com.cn
+findermp.video.qq.com
 finderydy.video.qq.com
 findicons.com
 finding.hardwareheaven.com
@@ -16855,6 +16871,7 @@ h2tcbox.baidu.com
 h35.ynodd.cn
 h45pmx1.cn
 h4b0srs.cn
+h4es48.z.cjjd14.com
 h5.analytics.126.net
 h5.dzgsdswh5.xyz
 h5.gdt.qq.com
@@ -17164,6 +17181,7 @@ hnol.net
 hnr.scjpqut.cn
 hnr.svdpgmt.cn
 hnr.wsacjdg.cn
+hnshamu.com
 hntezhi.com
 hnxxjn.com
 hnxxt.net
@@ -18359,6 +18377,7 @@ js-1.pchome.net
 js-ad.a.yximgs.com
 js-agent.newrelic.com
 js-apac-ss.ysm.yahoo.com
+js-rwk.pull.etoote.com
 js.*2023*.live
 js.*2023*.xyz
 js.05sun.com
@@ -20269,6 +20288,8 @@ microfun.cn
 mid.houyi.baofeng.net
 midas.rong360.com
 midinfo.baofeng.com
+midongtech.com
+midongtech.xyz
 mie99.net
 mifyeldx.top
 mig.str.mdt.qq.com
@@ -20410,8 +20431,10 @@ mob.huimee.net
 mobad.ijinshan.com
 mobadme.jp
 mobads-logs.baidu.com
+mobads-logs.e.shifen.com
 mobads-pre-config.cdn.bcebos.com
 mobads.baidu.com
+mobads.e.shifen.com
 mobaliyun.res.mgtv.com
 mobclix.com
 mobfox.com
@@ -20877,6 +20900,7 @@ nimaxrv.cn
 nimoatl.icu
 ninebox.cn
 ninemsn.imrworldwide.com
+nineton.cn
 ninformation.15dai.cn
 ningbojisheng.cn
 nisihu.com.cn
@@ -21157,6 +21181,7 @@ ommbqw.icu
 omnikool.discovery.com
 omsdkapi.tapque.com
 omtrdc.net
+on-device-ai.vivo.com.cn
 on.maxspeedcdn.com
 oncinu.com
 onclickads.net
@@ -21209,6 +21234,7 @@ open.toutiao.com
 open.youzanyun.com
 openapi-news.meizu.com
 openapi.guanjia.qq.com
+openapi.vivo.com.cn
 opencdnpddpic2.cdn.vsjwtcdn.com
 opencdnpddvod2.jomodns.com
 opencollective.com
@@ -21250,6 +21276,7 @@ orbit.jd.com
 orchidscape.net
 oredero.com
 ort-stsdk.vivo.com.cn
+ort.stsdk.vivo.com.cn
 ortc.cc
 orxsq.xyz
 orz.hupu.com
@@ -21619,6 +21646,7 @@ pengauto.cn
 people.com.cn##div.main:nth-child(2) > div.layout.ggtl.cf:nth-child(9)
 peplle.cn
 pepnsnq.cn
+perm-api.vivo.com.cn
 petametrics.com
 pexnjio.cn
 pf-2.pchome.net
@@ -22551,6 +22579,7 @@ renhadmasandbab.info
 renren2.maoyun.tv
 renrenhaigou.com
 renzhen8.cn
+report-sy.adview.cn
 report.*.qq.com
 report.cms.qq.com
 report.csslcloud.net
@@ -23361,6 +23390,7 @@ shrek.6.cn
 shsunedu.com
 shtatuo.cn
 shtt.shuqw.com
+shua-music.shinet.cn
 shucaihangjia.com
 shufapeixun.shop
 shuiguo.com
@@ -23453,6 +23483,7 @@ skfj5d.com
 skfjd1.xyz
 skfqxkk.cn
 skidfqh.xyz
+skill-platform-prd.vivo.com.cn
 skluff.com
 skogsborg.net
 skxuueby.cn
@@ -23473,6 +23504,7 @@ slog.sina.cn
 slog.sina.com.cn
 slonlyuse.shop
 slot.union.ucweb.com
+sls-android.cn-beijing.log.aliyuncs.com
 slsuggestion.live
 sltxantonline.com
 slutcmail.com
@@ -23752,6 +23784,7 @@ ssum.casalemedia.com
 st-ads-jssdk.vivo.com.cn
 st-adsgame.vivo.com.cn
 st-n.ads3-adnow.com
+st-sentinel.vivo.com.cn
 st.holalauncher.com
 st.holaworld.cn
 st.targetix.net
@@ -23771,6 +23804,7 @@ stadig.ifeng.com
 stadig0.ifeng.com
 staging-notify.sec.miui.com
 staging.admin.e.mi.com
+stappupgrade.vivo.com.cn
 staqnet.com
 star8.net
 startapp.com
@@ -23922,6 +23956,7 @@ sufeinet.com
 sugar.zhihu.com
 sugarle.com
 sumatang.com
+sumdiff.vivo.com.cn
 sump4.cc/js/wcount.js
 sun66387567606.online
 sun66387567606.site
@@ -24531,6 +24566,7 @@ track.58.com
 track.66mobi.com
 track.easeus.com
 track.hujiang.com
+track.innoads.cn
 track.lc.quark.cn
 track.mituo.cn
 track.sohu.com
@@ -24549,9 +24585,11 @@ tracker.kugou.com
 tracker.medproad.com
 tracker.sns.iqiyi.com
 tracker.soulapp.cn
+tracker.yfanads.com
 trackerads.com
 trackercdnbj.kugou.com
 trackersimulator.org
+tracking-adnet.vivo.com.cn
 tracking-server-prod-1.zenmxapps.com
 tracking.intl.miui.com
 tracking.kdnet.net
@@ -24869,6 +24907,7 @@ ug.snssdk.com
 ugbjqwe.com
 ugc-upload.3g.qq.com
 ugc.moji001.com
+ugccsy.qq.com
 ugd.gtimg.com
 ugdtimg.com
 ugfe111.top
@@ -25240,6 +25279,7 @@ v6-fe-pack.pglstatp-toutiao.com
 v6-gdvod.kwaicdn.com
 v6-novelapp-nxyd.fqnovelvod.com
 v6-novelapp.fqnovelvod.com
+v66-ad.ndcjl.com
 v66v66.com
 v6awsnf8ejjjsefh.sjucaie2.top
 v6hfl4.top
@@ -25348,6 +25388,7 @@ vgijoh.com
 vhhvldyuhm.xyz
 vhjxrj.xyz
 vhotlxp.video.qq.com
+vhs.wwstat.com
 vhsutpgui.xyz
 vhulan.com
 vhutitpu.icu
@@ -27054,6 +27095,7 @@ zhangjiaqi.top
 zhangjiyi.top
 zhangyumo.top
 zhangyuyidong.cn
+zhanstatic.vivo.com.cn
 zhanzhang.baidu.com/push.js
 zhanzhang.net
 zhanzhang.toutiao.com
