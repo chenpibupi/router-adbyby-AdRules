@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27477
-! Version: 2025-09-12 16:31:29（北京时间）
+! Total count: 27478
+! Version: 2025-09-13 04:25:46（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-northeast-2.elb.amazonaws.com
@@ -6993,8 +6993,8 @@
 127.0.0.1 localhost
 128tl.com
 13.107.246.73                 vscode.dev
+13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.42.16 pipelines.actions.githubusercontent.com
-13.107.43.16                  pipelines.actions.githubusercontent.com
 13.226.198.225 thetvdb.com
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
@@ -7007,17 +7007,17 @@
 1381a.xyz
 13hangpifa.com
 140.82.112.18 github.community
-140.82.112.21                 education.github.com
+140.82.112.22                 api.individual.githubcopilot.com
+140.82.112.22                 collector.github.com
 140.82.112.25 live.github.com
-140.82.113.18                 github.community
-140.82.113.21                 api.individual.githubcopilot.com
-140.82.113.21                 central.github.com
-140.82.113.21                 collector.github.com
+140.82.113.21                 education.github.com
 140.82.113.21 collector.github.com
+140.82.113.22                 central.github.com
 140.82.113.22 central.github.com
-140.82.113.25                 alive.github.com
-140.82.113.26                 live.github.com
+140.82.113.25                 live.github.com
 140.82.113.26 alive.github.com
+140.82.114.18                 github.community
+140.82.114.25                 alive.github.com
 140.82.116.3 gist.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
@@ -7054,9 +7054,9 @@
 156.238.246.232 
 156zw.com/css/js/tools.js
 16.15.184.231 github-production-user-asset-6210df.s3.amazonaws.com
-16.15.187.58                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.204.173                 github-com.s3.amazonaws.com
-16.15.219.138                 github-cloud.s3.amazonaws.com
+16.15.201.185                 github-production-user-asset-6210df.s3.amazonaws.com
+16.182.64.201                 github-cloud.s3.amazonaws.com
+16.182.68.177                 github-production-release-asset-2e65be.s3.amazonaws.com
 1622.5w8eho.com
 163.com##.freeVip
 163.com##.js-open-app
@@ -7356,6 +7356,7 @@
 2wgolxk.com
 2xmzazd.cn
 3.31xx4325a.cc
+3.5.21.172                    github-com.s3.amazonaws.com
 3.5.28.146 github-com.s3.amazonaws.com
 3.bdvwityy.cc
 3.cjcp.cn
@@ -7565,7 +7566,7 @@
 51y5.net
 51yes.com
 51zhanzhuang.cn
-52.216.52.113                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.37.17                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.54.209 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.56.97 github-cloud.s3.amazonaws.com
 52.217.44.156 github-production-release-asset-2e65be.s3.amazonaws.com
@@ -7588,7 +7589,6 @@
 5345ll.com
 537901.com
 54.192.73.28 image.tmdb.org
-54.231.140.25                 github-production-user-asset-6210df.s3.amazonaws.com
 549htbet.com
 54askjdklm.xyz
 54dbg.xyz
@@ -8789,6 +8789,7 @@
 @@||fr.register.xmpush.global.xiaomi.com
 @@||framework.cdn-go.cn
 @@||fraudmetrix.cn
+@@||free-aos-cdn-image.amap.com
 @@||free.sinaimg.cn
 @@||frodo.douban.com
 @@||frontier.tiktokv.com
