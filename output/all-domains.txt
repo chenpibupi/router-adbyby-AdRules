@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
 ! Total count: 27478
-! Version: 2025-09-15 04:24:04（北京时间）
+! Version: 2025-09-15 16:33:39（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-northeast-2.elb.amazonaws.com
@@ -6991,7 +6991,7 @@
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 localhost
 128tl.com
-13.107.246.73                 vscode.dev
+13.107.253.39                 vscode.dev
 13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.42.16 pipelines.actions.githubusercontent.com
 13.226.198.225 thetvdb.com
@@ -7005,18 +7005,18 @@
 138138138.top
 1381a.xyz
 13hangpifa.com
-140.82.112.17                 github.community
 140.82.112.18 github.community
-140.82.112.21                 central.github.com
-140.82.112.21                 education.github.com
 140.82.112.22                 api.individual.githubcopilot.com
+140.82.112.25                 live.github.com
 140.82.112.25 live.github.com
-140.82.113.21                 collector.github.com
 140.82.113.21 collector.github.com
+140.82.113.22                 central.github.com
 140.82.113.22 central.github.com
-140.82.113.25                 alive.github.com
 140.82.113.26 alive.github.com
-140.82.114.26                 live.github.com
+140.82.114.18                 github.community
+140.82.114.21                 education.github.com
+140.82.114.22                 collector.github.com
+140.82.114.26                 alive.github.com
 140.82.116.3 gist.github.com
 142.250.107.188 alt5-mtalk.google.com #US
 142.250.115.188     alt6-mtalk.google.com
@@ -7053,7 +7053,6 @@
 156.238.246.232 
 156zw.com/css/js/tools.js
 16.15.184.231 github-production-user-asset-6210df.s3.amazonaws.com
-16.15.216.235                 github-production-user-asset-6210df.s3.amazonaws.com
 1622.5w8eho.com
 163.com##.freeVip
 163.com##.js-open-app
@@ -7354,7 +7353,7 @@
 2xmzazd.cn
 3.31xx4325a.cc
 3.5.28.146 github-com.s3.amazonaws.com
-3.5.28.76                     github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.8.111                     github-production-release-asset-2e65be.s3.amazonaws.com
 3.bdvwityy.cc
 3.cjcp.cn
 3.guidaye.com
@@ -7563,11 +7562,11 @@
 51y5.net
 51yes.com
 51zhanzhuang.cn
-52.216.43.9                   github-cloud.s3.amazonaws.com
+52.216.41.145                 github-cloud.s3.amazonaws.com
 52.216.54.209 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.56.97 github-cloud.s3.amazonaws.com
-52.216.61.233                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.123.233                github-com.s3.amazonaws.com
+52.217.162.177                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.202.1                  github-production-user-asset-6210df.s3.amazonaws.com
 52.217.44.156 github-production-release-asset-2e65be.s3.amazonaws.com
 52.84.166.68 api.themoviedb.org
 52.84.166.71 api.themoviedb.org
@@ -7588,6 +7587,7 @@
 5345ll.com
 537901.com
 54.192.73.28 image.tmdb.org
+54.231.235.41                 github-com.s3.amazonaws.com
 549htbet.com
 54askjdklm.xyz
 54dbg.xyz
