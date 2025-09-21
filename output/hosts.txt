@@ -1,7 +1,7 @@
-# Version: 2025-09-21 16:37:33
+# Version: 2025-09-22 04:35:04
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26484
+# Total domains: 26486
 
 0.0.0.0	!
 0.0.0.0	!
@@ -8044,6 +8044,7 @@
 0.0.0.0	@@||api.kwaizt.com
 0.0.0.0	@@||api.live.bilibili.com
 0.0.0.0	@@||api.m.jd.com
+0.0.0.0	@@||api.map.baidu.com
 0.0.0.0	@@||api.meituan.com
 0.0.0.0	@@||api.micloud.xiaomi.net
 0.0.0.0	@@||api.miui.security.xiaomi.com
@@ -8867,6 +8868,7 @@
 0.0.0.0	@@||main.m.taobao.com
 0.0.0.0	@@||mall.360.cn
 0.0.0.0	@@||mall.bilibili.com
+0.0.0.0	@@||mall.csdn.net
 0.0.0.0	@@||mam.netease.com
 0.0.0.0	@@||manifest.googlevideo.com
 0.0.0.0	@@||manwa.me
