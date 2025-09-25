@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 26659
-! Version: 2025-09-25 16:33:32（北京时间）
+! Total count: 26664
+! Version: 2025-09-26 04:27:41（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -13024,6 +13024,7 @@ cee1.iteye.com
 cee2.iteye.com
 ceh.cehbh.com
 ceiqox.com
+cekrfk.com
 centering.raidrive.com###div-gpt-ad-1648048258625-0
 centering.raidrive.com###div-gpt-ad-1666694094447-0
 centering.raidrive.com/standard/c/widget
@@ -14541,6 +14542,7 @@ dw998.com
 dwa.okwan.cn
 dwfjtz.xyz
 dwibjkdsn.com
+dwuupq.com
 dwyngjb.icu
 dwz.cn
 dx1200.com
@@ -20239,6 +20241,7 @@ nysita.com
 nyvgbt.xyz
 nz04com.com
 nzezn.com
+nzl09251oa.com
 nzrlx6wc.icu
 nzrovf.xyz
 nztl.z74d.com
@@ -21637,6 +21640,7 @@ r.xcycm.com
 r.yhyunjin.com
 r.youmi.net
 r.zlongad.com
+r0l7cp.com
 r1.ykimg.com
 r36ku.site
 r3nvrr4uzh.com
@@ -23907,6 +23911,7 @@ tumblrprobes.cedexis.com
 tumblrreports.cedexis.com
 tumeite.cn
 tuniu.com##.web_envelope_mod, .tuniu-assist-hide, .show
+tuobeng.net
 tupan.cqdd.ltd
 tupian888.*.bcebos.com
 tuplzt.xyz

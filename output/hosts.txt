@@ -1,7 +1,7 @@
-# Version: 2025-09-25 16:43:20
+# Version: 2025-09-26 04:37:01
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26503
+# Total domains: 26508
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13028,6 +13028,7 @@
 0.0.0.0	cee2.iteye.com
 0.0.0.0	ceh.cehbh.com
 0.0.0.0	ceiqox.com
+0.0.0.0	cekrfk.com
 0.0.0.0	centering.raidrive.com###div-gpt-ad-1648048258625-0
 0.0.0.0	centering.raidrive.com###div-gpt-ad-1666694094447-0
 0.0.0.0	centering.raidrive.com/standard/c/widget
@@ -14545,6 +14546,7 @@
 0.0.0.0	dwa.okwan.cn
 0.0.0.0	dwfjtz.xyz
 0.0.0.0	dwibjkdsn.com
+0.0.0.0	dwuupq.com
 0.0.0.0	dwyngjb.icu
 0.0.0.0	dwz.cn
 0.0.0.0	dx1200.com
@@ -20243,6 +20245,7 @@
 0.0.0.0	nyvgbt.xyz
 0.0.0.0	nz04com.com
 0.0.0.0	nzezn.com
+0.0.0.0	nzl09251oa.com
 0.0.0.0	nzrlx6wc.icu
 0.0.0.0	nzrovf.xyz
 0.0.0.0	nztl.z74d.com
@@ -21641,6 +21644,7 @@
 0.0.0.0	r.yhyunjin.com
 0.0.0.0	r.youmi.net
 0.0.0.0	r.zlongad.com
+0.0.0.0	r0l7cp.com
 0.0.0.0	r1.ykimg.com
 0.0.0.0	r36ku.site
 0.0.0.0	r3nvrr4uzh.com
@@ -23911,6 +23915,7 @@
 0.0.0.0	tumblrreports.cedexis.com
 0.0.0.0	tumeite.cn
 0.0.0.0	tuniu.com##.web_envelope_mod,
+0.0.0.0	tuobeng.net
 0.0.0.0	tupan.cqdd.ltd
 0.0.0.0	tupian888.*.bcebos.com
 0.0.0.0	tuplzt.xyz
