@@ -1,14 +1,14 @@
-# Version: 2025-09-26 16:43:21
+# Version: 2025-09-27 04:36:04
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26509
+# Total domains: 26513
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 26665
-! Version: 2025-09-26 16:33:45（北京时间）
+! Total count: 26669
+! Version: 2025-09-27 04:26:41（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -372,6 +372,7 @@
 /stats.php?adsid=$third-party
 /template/jable/angular.min.js$~third-party
 /template/mytheme/statics/js/listing.js
+/template/piankuwap/js/afixed.js
 /template/piankuwap/js/afoot.js
 /theme/damn_b.js$~third-party
 /tj/tongji.js?v=$third-party
@@ -7883,6 +7884,7 @@
 ://*banzhu*/js/cdn.js$~third-party
 ://*mp4*/js/wcount.js$~third-party
 ://pic*.com/upload/*.js$third-party
+://tj.*.com$third-party
 :800*/d/*n=$third-party
 :800*/sc/*n=$third-party
 :8007/*/*?is_not=
@@ -8904,6 +8906,7 @@
 @@||member.bilibili.com
 @@||message.bilibili.com
 @@||metok.sys.miui.com
+@@||metrics1-drcn.dt.dbankcloud.cn
 @@||mi-img.com
 @@||miaozhen.com
 @@||mibi.api.xiaomi.com
@@ -9329,6 +9332,7 @@
 @@||sl.hpplay.cn
 @@||sm.cn
 @@||smart.360.cn
+@@||smarthome-drcn.dbankcdn.com
 @@||smsks1.cmpassport.com
 @@||snowflake.qq.com
 @@||sns-avatar-qc.xhscdn.com

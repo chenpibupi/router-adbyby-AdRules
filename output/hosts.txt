@@ -1,7 +1,7 @@
-# Version: 2025-09-26 16:43:21
+# Version: 2025-09-27 04:36:04
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26509
+# Total domains: 26513
 
 0.0.0.0	!
 0.0.0.0	!
@@ -372,6 +372,7 @@
 0.0.0.0	/stats.php?adsid=$third-party
 0.0.0.0	/template/jable/angular.min.js$~third-party
 0.0.0.0	/template/mytheme/statics/js/listing.js
+0.0.0.0	/template/piankuwap/js/afixed.js
 0.0.0.0	/template/piankuwap/js/afoot.js
 0.0.0.0	/theme/damn_b.js$~third-party
 0.0.0.0	/tj/tongji.js?v=$third-party
@@ -7883,6 +7884,7 @@
 0.0.0.0	://*banzhu*/js/cdn.js$~third-party
 0.0.0.0	://*mp4*/js/wcount.js$~third-party
 0.0.0.0	://pic*.com/upload/*.js$third-party
+0.0.0.0	://tj.*.com$third-party
 0.0.0.0	:800*/d/*n=$third-party
 0.0.0.0	:800*/sc/*n=$third-party
 0.0.0.0	:8007/*/*?is_not=
@@ -8904,6 +8906,7 @@
 0.0.0.0	@@||member.bilibili.com
 0.0.0.0	@@||message.bilibili.com
 0.0.0.0	@@||metok.sys.miui.com
+0.0.0.0	@@||metrics1-drcn.dt.dbankcloud.cn
 0.0.0.0	@@||mi-img.com
 0.0.0.0	@@||miaozhen.com
 0.0.0.0	@@||mibi.api.xiaomi.com
@@ -9329,6 +9332,7 @@
 0.0.0.0	@@||sl.hpplay.cn
 0.0.0.0	@@||sm.cn
 0.0.0.0	@@||smart.360.cn
+0.0.0.0	@@||smarthome-drcn.dbankcdn.com
 0.0.0.0	@@||smsks1.cmpassport.com
 0.0.0.0	@@||snowflake.qq.com
 0.0.0.0	@@||sns-avatar-qc.xhscdn.com
