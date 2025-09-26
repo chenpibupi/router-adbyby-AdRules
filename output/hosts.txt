@@ -1,7 +1,7 @@
-# Version: 2025-09-26 04:37:01
+# Version: 2025-09-26 16:43:21
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26508
+# Total domains: 26509
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12349,6 +12349,7 @@
 0.0.0.0	bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 0.0.0.0	bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 0.0.0.0	bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
+0.0.0.0	bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
 0.0.0.0	bing.com,cn.bing.net##.b_ans:has([class
 0.0.0.0	bing.com,cn.bing.net##.pa_sb
 0.0.0.0	bing.com,cn.bing.net##a[h$=",Ads"]
