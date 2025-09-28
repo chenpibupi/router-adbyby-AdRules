@@ -1,4 +1,4 @@
-# Version: 2025-09-28 04:34:04
+# Version: 2025-09-28 16:38:13
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
 # Total domains: 26513
@@ -8,7 +8,7 @@
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
 ! Total count: 26669
-! Version: 2025-09-28 04:24:49（北京时间）
+! Version: 2025-09-28 16:28:23（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
