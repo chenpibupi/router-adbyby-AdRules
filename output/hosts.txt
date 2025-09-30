@@ -1,7 +1,7 @@
-# Version: 2025-09-30 16:45:33
+# Version: 2025-10-01 04:37:40
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26513
+# Total domains: 26514
 
 0.0.0.0	!
 0.0.0.0	!
@@ -8104,6 +8104,7 @@
 0.0.0.0	@@||appmsg.gzmtr.cn
 0.0.0.0	@@||appsec-mobile.meituan.com
 0.0.0.0	@@||appsupport.qq.com
+0.0.0.0	@@||aps.amap.com
 0.0.0.0	@@||aq.qq.com
 0.0.0.0	@@||archive.biliimg.com
 0.0.0.0	@@||article.zlink.toutiao.com
