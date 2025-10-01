@@ -1,7 +1,7 @@
-# Version: 2025-10-01 04:37:40
+# Version: 2025-10-01 16:43:47
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26514
+# Total domains: 26515
 
 0.0.0.0	!
 0.0.0.0	!
@@ -20369,6 +20369,7 @@
 0.0.0.0	olcdn.com
 0.0.0.0	oldulgk.cn
 0.0.0.0	olevod.com##.B1Lss,.B1Rss
+0.0.0.0	olevod.com##.ads-bg
 0.0.0.0	olpv.onlylady.com
 0.0.0.0	olpvimg.onlylady.com
 0.0.0.0	olstats.onlylady.com
