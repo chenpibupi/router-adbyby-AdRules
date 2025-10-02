@@ -1,4 +1,4 @@
-# Version: 2025-10-02 16:42:14
+# Version: 2025-10-03 04:37:15
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
 # Total domains: 26515
@@ -8,7 +8,7 @@
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
 ! Total count: 26671
-! Version: 2025-10-02 16:32:47（北京时间）
+! Version: 2025-10-03 04:27:10（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -7984,6 +7984,7 @@
 @@||aihuishou.com
 @@||aikanlive.miguvideo.com
 @@||aikanvod.miguvideo.com
+@@||aisite.wejianzhan.com
 @@||aisubtitle.hdslb.com
 @@||aizhan.com
 @@||akamaized.net
@@ -11140,7 +11141,6 @@ aiseet.atianqi.com
 aishang.bid
 aishiguolong.com
 aishowbger.com
-aisite.wejianzhan.com
 aisnj.cn
 aispyd.icu
 aitiyu.io
