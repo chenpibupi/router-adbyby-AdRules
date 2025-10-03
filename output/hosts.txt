@@ -1,7 +1,7 @@
-# Version: 2025-10-03 16:41:11
+# Version: 2025-10-04 04:36:20
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26515
+# Total domains: 26514
 
 0.0.0.0	!
 0.0.0.0	!
@@ -22092,7 +22092,6 @@
 0.0.0.0	s.union.360.cn
 0.0.0.0	s.uuidksinc.net
 0.0.0.0	s.wapadv.com
-0.0.0.0	s.webank.com
 0.0.0.0	s.wrating.com
 0.0.0.0	s.wxktv.cn
 0.0.0.0	s.x.cn.xtgreat.com
