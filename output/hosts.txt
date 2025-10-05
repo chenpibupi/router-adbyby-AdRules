@@ -1,7 +1,7 @@
-# Version: 2025-10-05 04:33:29
+# Version: 2025-10-05 16:37:57
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26514
+# Total domains: 26515
 
 0.0.0.0	!
 0.0.0.0	!
@@ -19856,6 +19856,7 @@
 0.0.0.0	mujkdna.xyz
 0.0.0.0	multi-az-ad.kuaishou.cn
 0.0.0.0	multi-az-ad.kuaishou.com
+0.0.0.0	mumu*.com/js/cdn.js$~third-party
 0.0.0.0	munchkin.marketo.net
 0.0.0.0	mus-nettech.youku.com
 0.0.0.0	muses-ugc.iqiyi.com
