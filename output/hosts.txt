@@ -1,7 +1,7 @@
-# Version: 2025-10-07 16:42:48
+# Version: 2025-10-08 04:37:09
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26515
+# Total domains: 26516
 
 0.0.0.0	!
 0.0.0.0	!
@@ -8840,6 +8840,7 @@
 0.0.0.0	@@||m.jd.com
 0.0.0.0	@@||m.jd.watbc.top
 0.0.0.0	@@||m.jd.watbe.top
+0.0.0.0	@@||m.jf.10010.com
 0.0.0.0	@@||m.jiaoyimao.com
 0.0.0.0	@@||m.jingxi.com
 0.0.0.0	@@||m.jxdown.com
