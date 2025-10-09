@@ -1,7 +1,7 @@
-# Version: 2025-10-09 04:48:01
+# Version: 2025-10-09 16:43:57
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26516
+# Total domains: 26517
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12514,6 +12514,7 @@
 0.0.0.0	brort.stsdk.vivo.com.cn
 0.0.0.0	brownfox.top
 0.0.0.0	browser.events.data.msn.cn
+0.0.0.0	browser.events.data.msn.com
 0.0.0.0	browser.gwdang.com
 0.0.0.0	browser.sentry-cdn.com
 0.0.0.0	browser.vivo.com.cn
