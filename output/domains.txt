@@ -1,14 +1,14 @@
-# Version: 2025-10-10 04:37:52
+# Version: 2025-10-10 16:42:31
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26516
+# Total domains: 26517
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 26672
-! Version: 2025-10-10 04:27:56（北京时间）
+! Total count: 26673
+! Version: 2025-10-10 16:33:23（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -18647,6 +18647,7 @@ lookit.tw
 lookup.api.bsb.baidu.com
 lookxiuxiu.com
 looky.hyves.org
+loon Shadowrocket surge配置文件对立生成
 lop.lamimi.cn
 lopqrx.xyz
 lottery.kuaiya.cn
