@@ -1,7 +1,7 @@
-# Version: 2025-10-10 16:42:31
+# Version: 2025-10-11 04:37:06
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26517
+# Total domains: 26516
 
 0.0.0.0	!
 0.0.0.0	!
@@ -18647,7 +18647,6 @@
 0.0.0.0	lookup.api.bsb.baidu.com
 0.0.0.0	lookxiuxiu.com
 0.0.0.0	looky.hyves.org
-0.0.0.0	loon
 0.0.0.0	lop.lamimi.cn
 0.0.0.0	lopqrx.xyz
 0.0.0.0	lottery.kuaiya.cn

@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 26673
-! Version: 2025-10-10 16:33:23（北京时间）
+! Total count: 26672
+! Version: 2025-10-11 04:27:02（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -18642,7 +18642,6 @@ lookit.tw
 lookup.api.bsb.baidu.com
 lookxiuxiu.com
 looky.hyves.org
-loon Shadowrocket surge配置文件对立生成
 lop.lamimi.cn
 lopqrx.xyz
 lottery.kuaiya.cn
