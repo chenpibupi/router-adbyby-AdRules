@@ -1,7 +1,7 @@
-# Version: 2025-10-11 16:38:59
+# Version: 2025-10-12 04:33:22
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26516
+# Total domains: 26517
 
 0.0.0.0	!
 0.0.0.0	!
@@ -24137,6 +24137,7 @@
 0.0.0.0	ujian.cc
 0.0.0.0	ujikdd041o.cn
 0.0.0.0	ujnkn.com
+0.0.0.0	uk.sgrrz.cn
 0.0.0.0	uk3oi.adgze.cn
 0.0.0.0	uk529u0.cn
 0.0.0.0	ukeiae.com
