@@ -1,14 +1,14 @@
-# Version: 2025-10-12 16:39:03
+# Version: 2025-10-13 04:34:30
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26517
+# Total domains: 26521
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 26673
-! Version: 2025-10-12 16:29:02（北京时间）
+! Total count: 26677
+! Version: 2025-10-13 04:25:31（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -6932,6 +6932,7 @@
 127.0.0.1 localhost
 128tl.com
 13.107.42.16 pipelines.actions.githubusercontent.com
+13.224.163.98 api.themoviedb.org
 13.226.198.225 thetvdb.com
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
@@ -6989,6 +6990,7 @@
 168.it168.com
 1680go.com
 168ad.cc
+169.150.249.166 image.tmdb.org
 16m.cc
 170yy.com
 172.247.208.87/js/head.js
@@ -7469,6 +7471,7 @@
 530tl.com
 5345ll.com
 537901.com
+54.192.18.90 themoviedb.org
 54.192.73.28 image.tmdb.org
 549htbet.com
 54askjdklm.xyz
@@ -7843,6 +7846,7 @@
 98kyty.com
 98tl.com
 98tl.net
+99.84.133.50 www.themoviedb.org
 99.84.238.181 image.tmdb.org
 99.gn5m0bnwzvkndnoygn.com
 99.o2in8un5qlkj533twx.com
