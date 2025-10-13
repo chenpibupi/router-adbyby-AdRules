@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 26677
-! Version: 2025-10-13 04:25:31（北京时间）
+! Total count: 26679
+! Version: 2025-10-13 16:36:17（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -15769,6 +15769,7 @@ ggic01.miguvideo.com
 ggle.lywf.me
 ggmm777.com
 ggmmqq.com
+ggo10131lq.com
 ggr.yxdown.com
 ggs.myzaker.com
 ggsfq.com
@@ -18071,6 +18072,7 @@ kowqd7.top
 kowqd9.top
 kowuie.sydneypass.info
 kp12a.top
+kpsabnm.xyz
 kqubxdb.cn
 kqy1.com
 kr.axyqd.cn
