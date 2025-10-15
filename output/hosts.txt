@@ -1,7 +1,7 @@
-# Version: 2025-10-15 16:45:48
+# Version: 2025-10-16 04:38:44
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26523
+# Total domains: 26525
 
 0.0.0.0	!
 0.0.0.0	!
@@ -8716,6 +8716,7 @@
 0.0.0.0	@@||is.snssdk.com
 0.0.0.0	@@||is1-ssl.mzstatic.com
 0.0.0.0	@@||isee.weishi.qq.com
+0.0.0.0	@@||isite.baidu.com
 0.0.0.0	@@||issuecdn.baidupcs.com
 0.0.0.0	@@||isure.stream.qqmusic.qq.com
 0.0.0.0	@@||item.taobao.com
@@ -9088,6 +9089,7 @@
 0.0.0.0	@@||p3-webcast-sign.douyinpic.com
 0.0.0.0	@@||p3.dcarimg.com
 0.0.0.0	@@||p3.douyinpic.com
+0.0.0.0	@@||p4-ad.adukwai.com
 0.0.0.0	@@||p5-auto-sign.dcarimg.com
 0.0.0.0	@@||p5-auto.dcarimg.com
 0.0.0.0	@@||p5-sign.douyinpic.com
