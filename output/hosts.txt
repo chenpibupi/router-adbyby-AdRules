@@ -1,7 +1,7 @@
-# Version: 2025-10-19 16:38:52
+# Version: 2025-10-20 04:36:12
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26525
+# Total domains: 26529
 
 0.0.0.0	!
 0.0.0.0	!
@@ -8018,12 +8018,14 @@
 0.0.0.0	@@||apd-ugcvlive.apdcdn.tc.qq.com
 0.0.0.0	@@||apd-vlive.apdcdn.tc.qq.com
 0.0.0.0	@@||api-album.quark.cn
+0.0.0.0	@@||api-chat.soulapp.cn
 0.0.0.0	@@||api-cmnt.wtzw.com
 0.0.0.0	@@||api-cn.cdo.heytapmobi.com
 0.0.0.0	@@||api-cn.store.heytapmobi.com
 0.0.0.0	@@||api-cn.theme.heytapmobi.com
 0.0.0.0	@@||api-game.meizu.com
 0.0.0.0	@@||api-ks.wtzw.com
+0.0.0.0	@@||api-pay.soulapp.cn
 0.0.0.0	@@||api-pda.jdl.com
 0.0.0.0	@@||api-push.meizu.com
 0.0.0.0	@@||api-shoulei-ssl.xunlei.com
@@ -8692,6 +8694,7 @@
 0.0.0.0	@@||in.appcenter.ms
 0.0.0.0	@@||increase-openapi.soulapp.cn
 0.0.0.0	@@||inews.gtimg.com
+0.0.0.0	@@||info.zb.qq.com
 0.0.0.0	@@||ingest.sentry.io
 0.0.0.0	@@||input.shouji.sogou.com
 0.0.0.0	@@||inr-op.elemecdn.com
@@ -9576,6 +9579,7 @@
 0.0.0.0	@@||vv.video.qq.com
 0.0.0.0	@@||w.pandora.xiaomi.com
 0.0.0.0	@@||w1.kskwai.com
+0.0.0.0	@@||w2.kskwai.com
 0.0.0.0	@@||w8.com.cn
 0.0.0.0	@@||waapdg.jd.com
 0.0.0.0	@@||waimai-guide.ele.me

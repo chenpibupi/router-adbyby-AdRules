@@ -1,14 +1,14 @@
-# Version: 2025-10-19 16:38:52
+# Version: 2025-10-20 04:36:12
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26525
+# Total domains: 26529
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 26681
-! Version: 2025-10-19 14:17:30（北京时间）
+! Total count: 26685
+! Version: 2025-10-20 02:15:17（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -8018,12 +8018,14 @@
 @@||apd-ugcvlive.apdcdn.tc.qq.com
 @@||apd-vlive.apdcdn.tc.qq.com
 @@||api-album.quark.cn
+@@||api-chat.soulapp.cn
 @@||api-cmnt.wtzw.com
 @@||api-cn.cdo.heytapmobi.com
 @@||api-cn.store.heytapmobi.com
 @@||api-cn.theme.heytapmobi.com
 @@||api-game.meizu.com
 @@||api-ks.wtzw.com
+@@||api-pay.soulapp.cn
 @@||api-pda.jdl.com
 @@||api-push.meizu.com
 @@||api-shoulei-ssl.xunlei.com
@@ -8692,6 +8694,7 @@
 @@||in.appcenter.ms
 @@||increase-openapi.soulapp.cn
 @@||inews.gtimg.com
+@@||info.zb.qq.com
 @@||ingest.sentry.io
 @@||input.shouji.sogou.com
 @@||inr-op.elemecdn.com
@@ -9576,6 +9579,7 @@
 @@||vv.video.qq.com
 @@||w.pandora.xiaomi.com
 @@||w1.kskwai.com
+@@||w2.kskwai.com
 @@||w8.com.cn
 @@||waapdg.jd.com
 @@||waimai-guide.ele.me
