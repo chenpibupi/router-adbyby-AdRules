@@ -1,14 +1,14 @@
-# Version: 2025-10-22 16:46:34
+# Version: 2025-10-23 04:38:18
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26529
+# Total domains: 26530
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 26685
-! Version: 2025-10-22 14:19:05（北京时间）
+! Total count: 26686
+! Version: 2025-10-23 02:18:53（北京时间）
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -17013,6 +17013,7 @@ imgur.com##.Ad.sas.Smart
 imgwdyey.com
 imgxxx.shunxincar.cn
 imindmap.cc
+imjtv.cc
 immob.cn
 imneinei.com
 imp-toutiao-data.37.com.cn
