@@ -1,4 +1,4 @@
-# Version: 2025-10-24 16:44:15
+# Version: 2025-10-25 04:38:24
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
 # Total domains: 26530
