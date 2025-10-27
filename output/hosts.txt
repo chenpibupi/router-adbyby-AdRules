@@ -1,7 +1,7 @@
-# Version: 2025-10-27 16:45:10
+# Version: 2025-10-28 04:37:01
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 26530
+# Total domains: 26529
 
 0.0.0.0	!
 0.0.0.0	!
@@ -18953,7 +18953,6 @@
 0.0.0.0	m.ienkdago.cn
 0.0.0.0	m.infvb.com
 0.0.0.0	m.iqiyi.com##.iqyGuide-content,.cover
-0.0.0.0	m.iqiyipic.com
 0.0.0.0	m.irauz.com
 0.0.0.0	m.irkuj.com
 0.0.0.0	m.iruad.com
