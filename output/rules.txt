@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2025-10-31 14:18:46（北京时间）
+! Version: 2025-11-01 02:18:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 27458
+! Total count: 27462
 
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -192,6 +192,7 @@
 /static/jietiandixs/jtd.js$~third-party
 /static/js/miniyyrtv-config.js
 /static/lbsite/*/*.js?v=$third-party
+/statics/govv.js$~third-party
 /statics/js/dddd.js
 /statics/js/guding.js
 /statics/js/hth1111.html
@@ -7074,6 +7075,7 @@
 @@||bbs-static.miyoushe.com^
 @@||bbs.mobileapi.hupu.com^
 @@||bce.baidu.com^
+@@||bcelive.com^$important
 @@||bdsmtest.org^
 @@||bdsmtv.cc^
 @@||beian.miit.gov.cn^
@@ -7877,6 +7879,7 @@
 @@||jingfen.jd.com^
 @@||jnn-pa.googleapis.com^
 @@||jobs.bytedance.com^
+@@||jomodns.com^$important
 @@||jp.pornhub.com^
 @@||jp.spankbang.com^
 @@||jp.uptodown.com^
@@ -8842,6 +8845,7 @@
 @@||tbsone.imtt.qq.com^
 @@||tbv.sb-cd.com^
 @@||tcbox.baidu.com^
+@@||tcdn.qq.com^
 @@||tdid.m.qq.com^
 @@||teams.live.com^
 @@||test.nextdns.io^

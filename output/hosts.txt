@@ -1,7 +1,7 @@
-# Version: 2025-10-31 16:43:46
+# Version: 2025-11-01 04:37:28
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27302
+# Total domains: 27306
 
 0.0.0.0	!
 0.0.0.0	!
@@ -454,6 +454,7 @@
 0.0.0.0	/static/jietiandixs/jtd.js$~third-party
 0.0.0.0	/static/js/miniyyrtv-config.js
 0.0.0.0	/static/lbsite/*/*.js?v=$third-party
+0.0.0.0	/statics/govv.js$~third-party
 0.0.0.0	/statics/js/dddd.js
 0.0.0.0	/statics/js/guding.js
 0.0.0.0	/statics/js/hth1111.html
@@ -8328,6 +8329,7 @@
 0.0.0.0	@@||bbs-static.miyoushe.com
 0.0.0.0	@@||bbs.mobileapi.hupu.com
 0.0.0.0	@@||bce.baidu.com
+0.0.0.0	@@||bcelive.com
 0.0.0.0	@@||bdsmtest.org
 0.0.0.0	@@||bdsmtv.cc
 0.0.0.0	@@||beian.miit.gov.cn
@@ -9131,6 +9133,7 @@
 0.0.0.0	@@||jingfen.jd.com
 0.0.0.0	@@||jnn-pa.googleapis.com
 0.0.0.0	@@||jobs.bytedance.com
+0.0.0.0	@@||jomodns.com
 0.0.0.0	@@||jp.pornhub.com
 0.0.0.0	@@||jp.spankbang.com
 0.0.0.0	@@||jp.uptodown.com
@@ -10093,6 +10096,7 @@
 0.0.0.0	@@||tbsone.imtt.qq.com
 0.0.0.0	@@||tbv.sb-cd.com
 0.0.0.0	@@||tcbox.baidu.com
+0.0.0.0	@@||tcdn.qq.com
 0.0.0.0	@@||tdid.m.qq.com
 0.0.0.0	@@||teams.live.com
 0.0.0.0	@@||test.nextdns.io
