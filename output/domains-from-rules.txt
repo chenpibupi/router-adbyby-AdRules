@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27462
-! Version: 2025-11-01 14:16:31（北京时间）
+! Total count: 27503
+! Version: 2025-11-02 02:15:17（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-*.ap-southeast-1.elb.amazonaws.com
@@ -1971,7 +1971,6 @@
 0.0.0.0 bce-track-dsp.adwangmai.com
 0.0.0.0 bce.baidu.com
 0.0.0.0 bce.bj.ad.track.66mobi.com
-0.0.0.0 bcelive.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bd-cdn.halomobi.com
 0.0.0.0 bd-livemate.pull.yximgs.com
@@ -3158,7 +3157,6 @@
 0.0.0.0 gi.getui.net
 0.0.0.0 gia.jd.com
 0.0.0.0 gia.jd.com  #礼品卡？也能打开啊
-0.0.0.0 gifshow.com
 0.0.0.0 gini.snssdk.com
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gj.mmstat.com
@@ -6789,7 +6787,6 @@
 0.0.0.0 yuntu.oceanengine.com
 0.0.0.0 ywtb.mps.gov.cn
 0.0.0.0 ywtbapi.mps.gov.cn
-0.0.0.0 yximgs.com
 0.0.0.0 yybadaccess.3g.qq.com
 0.0.0.0 z-eu.amazon-adsystem.com
 0.0.0.0 z-feiyu.oceanengine.com
@@ -12378,6 +12375,8 @@ api5-normal-lq.fqnovel.com
 api5-normal-quic-lf.ixigua.com
 api5-normal-sinfonlineb.dcarapi.com
 api7.tuisong.baidu.com
+apidns-js.kwd.inkuai.com
+apidns.kwd.inkuai.com
 apih5.yocdk.com
 apihb6.ksapisrv.com
 apihk.growingio.com
@@ -15109,10 +15108,15 @@ dncvj.cn
 dnightwish.xyz
 dnl382.com
 dnrf0215.com
+dns.iqiyi.com
+dns.jd.com
+dns.qiyipic.iqiyi.com
 dns.qq.com
 dns.weibo.cn
 dns.weixin.qq.com
 dns.weixin.qq.com*
+dns.weixin.qq.com.cn
+dns2.q2cdn.com
 dnvus.com
 dnyzbp.cn
 dnzmhr.xyz
@@ -15124,6 +15128,8 @@ doca182.com
 doccd.xyz
 docin.com##.moneyBox
 dodhvug.cn
+doh.iqiyi.com
+doh.ptqy.gitv.tv
 dohihf.com
 doiney.pandasone.com
 dojyiu8.com
@@ -15149,6 +15155,7 @@ dot.eporner.com
 dot2.eporner.com
 dotcounter.douyutv.com
 dotmore.com.tw
+dotser.douyucdn.cn
 dotserver.douyucdn.cn
 dou777.com
 douban.com##IFRAME[width='315']
@@ -17009,6 +17016,7 @@ hcl.baidu.com
 hcreditx.com
 hcvegu.com
 hd.jiedaibao.com
+hd.xiaojukeji.com
 hd.ylddq.com
 hd2.3g.qq.com
 hda.maxli.cn
@@ -17019,6 +17027,7 @@ hdggcdn.bayimob.com
 hdhkwl.com
 hdj.baidu.com
 hdmp4.cc/js/foot.js
+hdns.ksyun.com
 hdpdrandpd.xyz
 hdvkl.cn
 hdwiey.com
@@ -17276,21 +17285,47 @@ html.350.com
 html.sunday8.com
 html.yuntzs.com
 htseca.top
+http.kwd.inkuai.com
 http://vibeaconstr.onezapp.com:8080/analytics/upload
+httpdns-ac.aliyuncs.com
+httpdns-api.aliyuncs.com
 httpdns-browser.platform.dbankcloud.cn
+httpdns-sdk.n.netease.com
+httpdns-v6.gslb.yy.com
 httpdns.alicdn.com
+httpdns.baidu.com
+httpdns.bcelice.com
 httpdns.bcelive.com
 httpdns.bilivideo.com
+httpdns.browser.miui.com
+httpdns.c.cdnhwc2.com
+httpdns.calorietech.com
+httpdns.cctv.com
+httpdns.danuoyi.tbcache.com
+httpdns.huaweicloud.com
 httpdns.kg.qq.com
 httpdns.kwd.inkuai.com
 httpdns.meituan.com
+httpdns.music.163.com
+httpdns.n.netease.com
+httpdns.n.shifen.com
+httpdns.ocloud.heytapmobi.com
 httpdns.ocloud.oppomobile.com
+httpdns.platform.dbankcloud.cn
 httpdns.platform.dbankcloud.com
 httpdns.pro
+httpdns.push.heytapmobi.com
 httpdns.push.oppomobile.com
+httpdns.yunxindns.com
+httpdns.zybang.com
+httpdns1.cc.cdnhwc5.com
+httpdnsmultiapi.meituan.com
+httpdnsmultiapivip.meituan.com
 httpkafka.unityads.unity3d.com
 httpring.qq.com
 https-apple.com
+httpsdns.baidu.com
+httpsdns.baidubce.com
 httpsjs.com
 htvixv.xyz
 huadongty.com##DIV[id$=' img-containers']
@@ -19312,6 +19347,7 @@ localads.chengzijianzhan.cn.queniurc.com
 localnetwork.uop
 localytics.com
 locdrop.query.yahoo.com
+lofter.httpdns.c.163.com
 log*-applog-lq.fqnovel.com
 log*-misc-lf.amemv.com
 log*-misc-lq.amemv.com
@@ -20658,6 +20694,7 @@ munchkin.marketo.net
 mus-nettech.youku.com
 muses-ugc.iqiyi.com
 music.163.com/weapi/activity/downloadpage/config/get
+music.httpdns.c.163.com
 musicoholics.com
 musicps.p2p.qq.com
 musicpunch.p2p.qq.com
@@ -22613,6 +22650,7 @@ rescn.u3.ucweb.com
 resetgey.com
 resolve.umeng.com
 resolver.msg.global.xiaomi.net
+resolver.msg.xiaomi.net
 resource.baomihua.com
 responsys.net
 restorationbowelsunflower.com
@@ -24277,6 +24315,7 @@ tencentmind.com
 tend.io
 tenddata.com
 tenekslu.com
+tens.p2p.tun.qq.com
 tepusi888.cn
 terms-drcn.platform.dbankcloud.cn
 terms.alicdn.com
@@ -24985,6 +25024,7 @@ unified-ter.hismarttv.com
 uniformer.biz
 unilog.wostore.cn
 unimhk.com
+union-httpdns.gslb.yy.com
 union-mlog.bigda.com
 union-wifi.com
 union.360.cn
@@ -26866,6 +26906,7 @@ yxz101.gclgu.cn
 yy38vip.com
 yy4480qpgyy.com
 yy58ju.com
+yyapp-httpdns.gslb.yy.com
 yyb.pc6.com
 yyds.vip-01.top
 yyefao.com
