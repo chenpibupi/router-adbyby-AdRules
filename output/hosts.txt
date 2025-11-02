@@ -1,7 +1,7 @@
-# Version: 2025-11-02 16:38:30
+# Version: 2025-11-03 04:34:59
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27347
+# Total domains: 27350
 
 0.0.0.0	!
 0.0.0.0	!
@@ -11,7 +11,6 @@
 0.0.0.0	!
 0.0.0.0	*-*-*-lrycfv.vip
 0.0.0.0	*-*.ap-east-1.elb.amazonaws.com
-0.0.0.0	*-*.ap-southeast-1.elb.amazonaws.com
 0.0.0.0	*-ad-sign.byteimg.com
 0.0.0.0	*-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0	*-ad.a.yximgs.com
@@ -8840,6 +8839,7 @@
 0.0.0.0	@@||game.xiaomi.com
 0.0.0.0	@@||gamebanana.com
 0.0.0.0	@@||gameimg.qidian.com
+0.0.0.0	@@||games-community-gl.heytapmobile.com
 0.0.0.0	@@||games.mobileapi.hupu.com
 0.0.0.0	@@||gateway.kugou.com
 0.0.0.0	@@||gcable.com.cn
@@ -9397,6 +9397,7 @@
 0.0.0.0	@@||migrate.driveapi.micloud.xiaomi.net
 0.0.0.0	@@||mime.baidu.com
 0.0.0.0	@@||mimg.127.net
+0.0.0.0	@@||mini-game-gl.heytapmobile.com
 0.0.0.0	@@||mini2015.qq.com
 0.0.0.0	@@||miniapp.gtimg.cn
 0.0.0.0	@@||minigame.zijieapi.com
@@ -10034,6 +10035,7 @@
 0.0.0.0	@@||store.cdn.queniuqe.com
 0.0.0.0	@@||store.fastly.steamstatic.com
 0.0.0.0	@@||store.heytapimage.com
+0.0.0.0	@@||store.is.autonavi.com
 0.0.0.0	@@||store.meizu.com
 0.0.0.0	@@||store.steamchina.com
 0.0.0.0	@@||store.steamchina.queniuam.com
@@ -10297,6 +10299,7 @@
 0.0.0.0	@@||we.tl
 0.0.0.0	@@||weatherapi.market.xiaomi.com
 0.0.0.0	@@||web.vip.miui.com
+0.0.0.0	@@||webapi.amap.com
 0.0.0.0	@@||webapps.mimikko.cn
 0.0.0.0	@@||webcast-open.douyin.com
 0.0.0.0	@@||webfiles.gamebanana.com

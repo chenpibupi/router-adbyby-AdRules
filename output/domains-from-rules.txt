@@ -3,11 +3,10 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27503
-! Version: 2025-11-02 14:17:31（北京时间）
+! Total count: 27506
+! Version: 2025-11-03 02:14:45（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
-*-*.ap-southeast-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
 *-ad-union-sdk.pglstatp-toutiao.com
 *-ad.a.yximgs.com
@@ -8836,6 +8835,7 @@
 @@||game.xiaomi.com
 @@||gamebanana.com
 @@||gameimg.qidian.com
+@@||games-community-gl.heytapmobile.com
 @@||games.mobileapi.hupu.com
 @@||gateway.kugou.com
 @@||gcable.com.cn
@@ -9393,6 +9393,7 @@
 @@||migrate.driveapi.micloud.xiaomi.net
 @@||mime.baidu.com
 @@||mimg.127.net
+@@||mini-game-gl.heytapmobile.com
 @@||mini2015.qq.com
 @@||miniapp.gtimg.cn
 @@||minigame.zijieapi.com
@@ -10030,6 +10031,7 @@
 @@||store.cdn.queniuqe.com
 @@||store.fastly.steamstatic.com
 @@||store.heytapimage.com
+@@||store.is.autonavi.com
 @@||store.meizu.com
 @@||store.steamchina.com
 @@||store.steamchina.queniuam.com
@@ -10293,6 +10295,7 @@
 @@||we.tl
 @@||weatherapi.market.xiaomi.com
 @@||web.vip.miui.com
+@@||webapi.amap.com
 @@||webapps.mimikko.cn
 @@||webcast-open.douyin.com
 @@||webfiles.gamebanana.com
