@@ -1,4 +1,4 @@
-# Version: 2025-11-05 16:46:02
+# Version: 2025-11-06 04:40:17
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
 # Total domains: 27351
@@ -9671,6 +9671,7 @@
 0.0.0.0	@@||paydns.wechatpay.cn
 0.0.0.0	@@||pbaccess.video.qq.com
 0.0.0.0	@@||pbs.twimg.com
+0.0.0.0	@@||pc-api.uc.cn
 0.0.0.0	@@||pc.xunlei.com
 0.0.0.0	@@||pcvideoaliyun.titan.mgtv.com
 0.0.0.0	@@||pda.jd.com
@@ -10047,6 +10048,7 @@
 0.0.0.0	@@||stripe.com
 0.0.0.0	@@||studcat.infra.systems
 0.0.0.0	@@||study.163.com
+0.0.0.0	@@||su.uc.cn
 0.0.0.0	@@||subscription.iqiyi.com
 0.0.0.0	@@||sug.browser.miui.com
 0.0.0.0	@@||sugar.zhihu.com
@@ -14837,7 +14839,6 @@
 0.0.0.0	default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 0.0.0.0	default.cn.wagbridge.ad.alibabacorp.com
 0.0.0.0	default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
-0.0.0.0	default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 0.0.0.0	default.ixigua.com
 0.0.0.0	defaultts.tc.qq.com
 0.0.0.0	degjidp.icu
@@ -25750,7 +25751,6 @@
 0.0.0.0	web3.0.page.live18.club
 0.0.0.0	webcast*-open-lq.douyin.com
 0.0.0.0	webcast-open.douyin.com
-0.0.0.0	webcast.amemv.com/webcast/gamecp/*
 0.0.0.0	webcast5-open-hl.douyin.com
 0.0.0.0	webcast5-open-lf.douyin.com
 0.0.0.0	webcast5-open-lq.douyin.com

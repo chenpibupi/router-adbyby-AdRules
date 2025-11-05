@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
 ! Total count: 27507
-! Version: 2025-11-05 14:19:08（北京时间）
+! Version: 2025-11-06 02:17:48（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -9666,6 +9666,7 @@
 @@||paydns.wechatpay.cn
 @@||pbaccess.video.qq.com
 @@||pbs.twimg.com
+@@||pc-api.uc.cn
 @@||pc.xunlei.com
 @@||pcvideoaliyun.titan.mgtv.com
 @@||pda.jd.com
@@ -10042,6 +10043,7 @@
 @@||stripe.com
 @@||studcat.infra.systems
 @@||study.163.com
+@@||su.uc.cn
 @@||subscription.iqiyi.com
 @@||sug.browser.miui.com
 @@||sugar.zhihu.com
@@ -14832,7 +14834,6 @@ default.cn.sz.wagbridge.ad.alibabacorp.com
 default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 default.cn.wagbridge.ad.alibabacorp.com
 default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
-default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 default.ixigua.com
 defaultts.tc.qq.com
 degjidp.icu
@@ -25745,7 +25746,6 @@ web.xurongwl.com
 web3.0.page.live18.club
 webcast*-open-lq.douyin.com
 webcast-open.douyin.com
-webcast.amemv.com/webcast/gamecp/*
 webcast5-open-hl.douyin.com
 webcast5-open-lf.douyin.com
 webcast5-open-lq.douyin.com
