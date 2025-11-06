@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27507
-! Version: 2025-11-06 14:19:15（北京时间）
+! Total count: 27509
+! Version: 2025-11-07 02:18:26（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -7044,6 +7044,8 @@
 13.226.198.225 thetvdb.com
 13.226.254.58 image.tmdb.org
 13.35.0.128 api.themoviedb.org
+13.39.63.107 community.oneplus.com
+13.39.75.239 community.oneplus.com
 13023.url.7wkw.com
 1338999.com
 1372.w13726954.com
@@ -7288,6 +7290,7 @@
 23.215.0.204 steamcdn-a.akamaihd.net
 23.222.193.171 store.steampowered.com
 23.231.151.252
+23.48.224.239 oxygenos.oneplus.net
 23.49.100.232 api.pinterest.com
 23.49.100.232 i.pinimg.com
 23.49.100.232 pinterest.com
@@ -7395,8 +7398,6 @@
 33shangyou.com
 34689.recommend_list.baidu.com
 34e278e.ed4d3uu.nl
-35.181.164.242 community.oneplus.com
-35.181.220.27 community.oneplus.com
 350.40675180.vip
 35072.net
 35609731.xyz
@@ -9017,6 +9018,7 @@
 @@||images.nvidiagrid.net
 @@||images1-focus-opensocial.googleusercontent.com
 @@||images2.imgbox.com
+@@||imagex.bytedanceapi.com
 @@||imasdk.googleapis.com
 @@||ime-res-download.xfinfr.com
 @@||imeclient.openspeech.cn
@@ -9635,6 +9637,7 @@
 @@||p9-flow-imagex-sign.byteimg.com
 @@||p9-heycan-hgt-sign.byteimg.com
 @@||p9-novelfm-sign.novelfmpic.com
+@@||p9-pc-sign.douyinpic.com
 @@||p9-reading-sign.fqnovelpic.com
 @@||p9-sign.douyinpic.com
 @@||p9-sign.toutiaoimg.com
@@ -13429,7 +13432,6 @@ bypbwm.cn
 bytedance.com
 bytedance.com.queniurc.com
 bytedance.com.w.cdngslb.com
-bytedanceapi.com
 byteorge.com
 byvlph.xyz
 bzhn9y.icu

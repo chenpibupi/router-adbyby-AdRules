@@ -1,7 +1,7 @@
-# Version: 2025-11-06 16:45:45
+# Version: 2025-11-07 04:39:57
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27351
+# Total domains: 27353
 
 0.0.0.0	!
 0.0.0.0	!
@@ -7049,6 +7049,8 @@
 0.0.0.0	13.226.198.225
 0.0.0.0	13.226.254.58
 0.0.0.0	13.35.0.128
+0.0.0.0	13.39.63.107
+0.0.0.0	13.39.75.239
 0.0.0.0	13023.url.7wkw.com
 0.0.0.0	1338999.com
 0.0.0.0	1372.w13726954.com
@@ -7293,6 +7295,7 @@
 0.0.0.0	23.215.0.204
 0.0.0.0	23.222.193.171
 0.0.0.0	23.231.151.252
+0.0.0.0	23.48.224.239
 0.0.0.0	23.49.100.232
 0.0.0.0	23.49.100.232
 0.0.0.0	23.49.100.232
@@ -7400,8 +7403,6 @@
 0.0.0.0	33shangyou.com
 0.0.0.0	34689.recommend_list.baidu.com
 0.0.0.0	34e278e.ed4d3uu.nl
-0.0.0.0	35.181.164.242
-0.0.0.0	35.181.220.27
 0.0.0.0	350.40675180.vip
 0.0.0.0	35072.net
 0.0.0.0	35609731.xyz
@@ -9022,6 +9023,7 @@
 0.0.0.0	@@||images.nvidiagrid.net
 0.0.0.0	@@||images1-focus-opensocial.googleusercontent.com
 0.0.0.0	@@||images2.imgbox.com
+0.0.0.0	@@||imagex.bytedanceapi.com
 0.0.0.0	@@||imasdk.googleapis.com
 0.0.0.0	@@||ime-res-download.xfinfr.com
 0.0.0.0	@@||imeclient.openspeech.cn
@@ -9640,6 +9642,7 @@
 0.0.0.0	@@||p9-flow-imagex-sign.byteimg.com
 0.0.0.0	@@||p9-heycan-hgt-sign.byteimg.com
 0.0.0.0	@@||p9-novelfm-sign.novelfmpic.com
+0.0.0.0	@@||p9-pc-sign.douyinpic.com
 0.0.0.0	@@||p9-reading-sign.fqnovelpic.com
 0.0.0.0	@@||p9-sign.douyinpic.com
 0.0.0.0	@@||p9-sign.toutiaoimg.com
@@ -13434,7 +13437,6 @@
 0.0.0.0	bytedance.com
 0.0.0.0	bytedance.com.queniurc.com
 0.0.0.0	bytedance.com.w.cdngslb.com
-0.0.0.0	bytedanceapi.com
 0.0.0.0	byteorge.com
 0.0.0.0	byvlph.xyz
 0.0.0.0	bzhn9y.icu
