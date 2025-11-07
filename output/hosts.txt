@@ -1,7 +1,7 @@
-# Version: 2025-11-07 16:45:02
+# Version: 2025-11-08 04:36:11
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27353
+# Total domains: 27352
 
 0.0.0.0	!
 0.0.0.0	!
@@ -102,7 +102,6 @@
 0.0.0.0	*.ft33t3w.pro
 0.0.0.0	*.g0d679.com
 0.0.0.0	*.g9hc4.cn
-0.0.0.0	*.gamecenter.qq.com
 0.0.0.0	*.gdolr.cn
 0.0.0.0	*.gdt.qq.com
 0.0.0.0	*.giqnyl.cn
