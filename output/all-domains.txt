@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
 ! Total count: 27508
-! Version: 2025-11-08 14:16:47（北京时间）
+! Version: 2025-11-09 02:15:41（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -9838,6 +9838,7 @@
 @@||router.ctc.lan
 @@||rs.xmeye.net
 @@||ru.register.xmpush.global.xiaomi.com
+@@||rule.tencent.com
 @@||s*.ssl.qhimg.com
 @@||s*.ssl.qhmsg.com
 @@||s*.ssl.qhres2.com
@@ -22819,7 +22820,6 @@ rubicon-match.dotomi.com
 rubiconproject.com
 rudy.adsnative.com
 rui61.cn
-rule.tencent.com
 ruliaoqi.com
 rulwph.xyz
 rum-collector.pingdom.net

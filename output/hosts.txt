@@ -1,4 +1,4 @@
-# Version: 2025-11-08 16:41:01
+# Version: 2025-11-09 04:34:42
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
 # Total domains: 27352
@@ -9843,6 +9843,7 @@
 0.0.0.0	@@||router.ctc.lan
 0.0.0.0	@@||rs.xmeye.net
 0.0.0.0	@@||ru.register.xmpush.global.xiaomi.com
+0.0.0.0	@@||rule.tencent.com
 0.0.0.0	@@||s*.ssl.qhimg.com
 0.0.0.0	@@||s*.ssl.qhmsg.com
 0.0.0.0	@@||s*.ssl.qhres2.com
@@ -22824,7 +22825,6 @@
 0.0.0.0	rubiconproject.com
 0.0.0.0	rudy.adsnative.com
 0.0.0.0	rui61.cn
-0.0.0.0	rule.tencent.com
 0.0.0.0	ruliaoqi.com
 0.0.0.0	rulwph.xyz
 0.0.0.0	rum-collector.pingdom.net
