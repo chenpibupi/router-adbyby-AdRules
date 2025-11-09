@@ -1,7 +1,7 @@
-# Version: 2025-11-09 16:39:21
+# Version: 2025-11-10 04:35:31
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27352
+# Total domains: 27356
 
 0.0.0.0	!
 0.0.0.0	!
@@ -9338,6 +9338,7 @@
 0.0.0.0	@@||mail.163.com
 0.0.0.0	@@||mail.qq.com
 0.0.0.0	@@||main.m.taobao.com
+0.0.0.0	@@||mairuan.com
 0.0.0.0	@@||mall.360.cn
 0.0.0.0	@@||mall.bilibili.com
 0.0.0.0	@@||mall.csdn.net
@@ -10210,6 +10211,7 @@
 0.0.0.0	@@||urswebzj.nosdn.127.net
 0.0.0.0	@@||user1.game.qq.com
 0.0.0.0	@@||uxip.meizu.com
+0.0.0.0	@@||uzzf.com
 0.0.0.0	@@||v*-dc-ad.ixigua.com
 0.0.0.0	@@||v*-fq-tts.fqnovelvod.com
 0.0.0.0	@@||v*.douyinvod.com
@@ -10430,6 +10432,7 @@
 0.0.0.0	@@||www.lianjia.com
 0.0.0.0	@@||www.lsds.cn
 0.0.0.0	@@||www.maimemo.com
+0.0.0.0	@@||www.mairuan.com
 0.0.0.0	@@||www.manhuabei.com
 0.0.0.0	@@||www.maserati.com
 0.0.0.0	@@||www.meituan.com
@@ -10467,6 +10470,7 @@
 0.0.0.0	@@||www.recaptcha.net
 0.0.0.0	@@||www.so.com
 0.0.0.0	@@||www.spaceship.com
+0.0.0.0	@@||www.sygjx.com
 0.0.0.0	@@||www.taobao.com
 0.0.0.0	@@||www.taptap.cn
 0.0.0.0	@@||www.taptap.io
@@ -10476,6 +10480,7 @@
 0.0.0.0	@@||www.toutiao.com
 0.0.0.0	@@||www.tudou.com
 0.0.0.0	@@||www.twitter.com
+0.0.0.0	@@||www.uzzf.com
 0.0.0.0	@@||www.vmall.com
 0.0.0.0	@@||www.wnacg.com
 0.0.0.0	@@||www.xanimeporn.com
@@ -20072,7 +20077,6 @@
 0.0.0.0	maiqi.xyz
 0.0.0.0	mairuan.cn
 0.0.0.0	mairuan.com
-0.0.0.0	mairuan.com.cn
 0.0.0.0	mairuan.net
 0.0.0.0	mairuanwang.com
 0.0.0.0	maisoncherry.com

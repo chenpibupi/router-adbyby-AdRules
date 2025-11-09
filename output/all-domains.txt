@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27508
-! Version: 2025-11-09 14:17:08（北京时间）
+! Total count: 27512
+! Version: 2025-11-10 02:15:46（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -9333,6 +9333,7 @@
 @@||mail.163.com
 @@||mail.qq.com
 @@||main.m.taobao.com
+@@||mairuan.com
 @@||mall.360.cn
 @@||mall.bilibili.com
 @@||mall.csdn.net
@@ -10205,6 +10206,7 @@
 @@||urswebzj.nosdn.127.net
 @@||user1.game.qq.com
 @@||uxip.meizu.com
+@@||uzzf.com
 @@||v*-dc-ad.ixigua.com
 @@||v*-fq-tts.fqnovelvod.com
 @@||v*.douyinvod.com
@@ -10425,6 +10427,7 @@
 @@||www.lianjia.com
 @@||www.lsds.cn
 @@||www.maimemo.com
+@@||www.mairuan.com
 @@||www.manhuabei.com
 @@||www.maserati.com
 @@||www.meituan.com
@@ -10462,6 +10465,7 @@
 @@||www.recaptcha.net
 @@||www.so.com
 @@||www.spaceship.com
+@@||www.sygjx.com
 @@||www.taobao.com
 @@||www.taptap.cn
 @@||www.taptap.io
@@ -10471,6 +10475,7 @@
 @@||www.toutiao.com
 @@||www.tudou.com
 @@||www.twitter.com
+@@||www.uzzf.com
 @@||www.vmall.com
 @@||www.wnacg.com
 @@||www.xanimeporn.com
@@ -20067,7 +20072,6 @@ maipinshangmao.com
 maiqi.xyz
 mairuan.cn
 mairuan.com
-mairuan.com.cn
 mairuan.net
 mairuanwang.com
 maisoncherry.com
