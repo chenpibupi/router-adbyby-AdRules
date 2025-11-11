@@ -1,7 +1,7 @@
-# Version: 2025-11-11 04:41:28
+# Version: 2025-11-11 16:45:19
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27355
+# Total domains: 27357
 
 0.0.0.0	!
 0.0.0.0	!
@@ -13253,6 +13253,7 @@
 0.0.0.0	blueprints.iad.apple.com
 0.0.0.0	bluhostedbanners.blucigs.com
 0.0.0.0	blvhq.com
+0.0.0.0	blzgeuuz.icu
 0.0.0.0	bmg.wnbfw.com
 0.0.0.0	bmiea.xyz
 0.0.0.0	bmp.ali213.net
@@ -17416,6 +17417,7 @@
 0.0.0.0	hwnod.xyz
 0.0.0.0	hwpub-s01-drcn.cloud.dbankcloud.cn
 0.0.0.0	hwt.player888.cn
+0.0.0.0	hwwzqi.cn
 0.0.0.0	hxadt.com
 0.0.0.0	hxdwsfg.cn
 0.0.0.0	hxg6.t906377.vip
