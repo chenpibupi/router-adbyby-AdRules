@@ -1,4 +1,4 @@
-# Version: 2025-11-12 16:46:39
+# Version: 2025-11-13 04:40:12
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
 # Total domains: 27357
@@ -10137,6 +10137,7 @@
 0.0.0.0	@@||trade-acs.m.taobao.com
 0.0.0.0	@@||train.17u.cn
 0.0.0.0	@@||translator.qq.com
+0.0.0.0	@@||trpc.qianbao.qq.com
 0.0.0.0	@@||ts.market.mi-img.com
 0.0.0.0	@@||ts1.tc.mm.bing.net
 0.0.0.0	@@||ts2.tc.mm.bing.net
@@ -24674,7 +24675,6 @@
 0.0.0.0	trk.pinterest.com
 0.0.0.0	trognoi.com
 0.0.0.0	trp69.top
-0.0.0.0	trpc.qianbao.qq.com
 0.0.0.0	trpcpb.imtt.qq.com
 0.0.0.0	trqhf.xyz
 0.0.0.0	trrs-adp.2345.com
