@@ -1,7 +1,7 @@
-# Version: 2025-11-13 16:45:51
+# Version: 2025-11-14 04:40:03
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27353
+# Total domains: 27365
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12249,6 +12249,7 @@
 0.0.0.0	api.aoao12060iis.top
 0.0.0.0	api.appodeal.com
 0.0.0.0	api.apps.sina.cn
+0.0.0.0	api.aqyad.com
 0.0.0.0	api.bailingjiankang.com
 0.0.0.0	api.bs.zui.com
 0.0.0.0	api.bugly.qq.com
@@ -12328,6 +12329,7 @@
 0.0.0.0	api.rideraid.net
 0.0.0.0	api.sa.hismarttv.com
 0.0.0.0	api.scwsf.com
+0.0.0.0	api.shanghailingye.cn
 0.0.0.0	api.share.mob.com
 0.0.0.0	api.shuzilm.cn
 0.0.0.0	api.similarweb.com
@@ -12566,6 +12568,7 @@
 0.0.0.0	aquvg.com
 0.0.0.0	aqvwn18102h.com
 0.0.0.0	aqw.quanliyouxi.cn
+0.0.0.0	aqyad.com
 0.0.0.0	ar.atwola.com
 0.0.0.0	ar.umeng.com
 0.0.0.0	ar1.atwola.com
@@ -16368,6 +16371,7 @@
 0.0.0.0	g.dtv.cn.miaozhen.com
 0.0.0.0	g.f11w.com
 0.0.0.0	g.f5gh.com
+0.0.0.0	g.fancyapi.com
 0.0.0.0	g.gridsum.com
 0.0.0.0	g.haluoha.com
 0.0.0.0	g.hsw.cn
@@ -19042,6 +19046,7 @@
 0.0.0.0	l3hidpw44bvj-1321608654.cos.ap-chengdu.myqcloud.com
 0.0.0.0	l3r6p0d5.com
 0.0.0.0	l4efwdtg.icu
+0.0.0.0	l6.fancyapi.com
 0.0.0.0	l80ays.com
 0.0.0.0	l9bdhcgihw.neihanw.com
 0.0.0.0	laawmmy.cn
@@ -19178,6 +19183,7 @@
 0.0.0.0	lfjtiuy.cn
 0.0.0.0	lflili.com
 0.0.0.0	lflmdm.com
+0.0.0.0	lftxali.fancyapi.com
 0.0.0.0	lfyuanai.com
 0.0.0.0	lfzk2cp.icu
 0.0.0.0	lg2.jointreport-switch.com
@@ -21291,6 +21297,7 @@
 0.0.0.0	open.snssdk.com.bytedns.net
 0.0.0.0	open.toutiao.com
 0.0.0.0	open.youzanyun.com
+0.0.0.0	openadapi.fancydsp.com
 0.0.0.0	openapi-news.meizu.com
 0.0.0.0	openapi.guanjia.qq.com
 0.0.0.0	openapi.vivo.com.cn
@@ -23162,6 +23169,7 @@
 0.0.0.0	sdk.alibaba.com.ailbaba.me
 0.0.0.0	sdk.api.gamex.mobile.youku.com
 0.0.0.0	sdk.appadhoc.com
+0.0.0.0	sdk.aqyad.com
 0.0.0.0	sdk.beizi.biz
 0.0.0.0	sdk.cdnmaster.com
 0.0.0.0	sdk.cferw.com
@@ -23185,6 +23193,7 @@
 0.0.0.0	sdk.sipujia.cn
 0.0.0.0	sdk.verification.jiguang.cn
 0.0.0.0	sdk2xr232.top
+0.0.0.0	sdkapi.cloooud.com
 0.0.0.0	sdkapp.mobile.sina.cn
 0.0.0.0	sdkapp.uve.weibo.com
 0.0.0.0	sdkauth.hpplay.cn
@@ -23601,7 +23610,6 @@
 0.0.0.0	snow001.com
 0.0.0.0	snowflake.qq.com
 0.0.0.0	sns-paopao.iqiyi.com
-0.0.0.0	snssdk.com
 0.0.0.0	so.clzgd.com
 0.0.0.0	so.com###card_container
 0.0.0.0	so.com###side
@@ -23797,6 +23805,7 @@
 0.0.0.0	ssp.86str.com
 0.0.0.0	ssp.chaohutechan.com
 0.0.0.0	ssp.cibn.starschina.com
+0.0.0.0	ssp.cloooud.com
 0.0.0.0	ssp.daxueshengqiandai.com
 0.0.0.0	ssp.dmpdsp.com
 0.0.0.0	ssp.kjwx8.com
@@ -23919,6 +23928,7 @@
 0.0.0.0	static8.pmadx.com
 0.0.0.0	staticadm.leju.com
 0.0.0.0	staticadm.leju.sina.com.cn
+0.0.0.0	statichf.shihuocdn.cn
 0.0.0.0	staticjs.cn
 0.0.0.0	statics.3987.com
 0.0.0.0	statics.9669.com
@@ -24186,6 +24196,7 @@
 0.0.0.0	t1tgame.com
 0.0.0.0	t2.58cdn.com.cn
 0.0.0.0	t2.a.market.xiaomi.com
+0.0.0.0	t2.fancyapi.com
 0.0.0.0	t2.jzkapp.com
 0.0.0.0	t2.vbxx.net
 0.0.0.0	t2.wshufa.com
@@ -24597,6 +24608,7 @@
 0.0.0.0	tr.byteurl.cn
 0.0.0.0	tr.iadsdk.apple.com
 0.0.0.0	tr.medproad.com
+0.0.0.0	trace.aqyad.com
 0.0.0.0	trace.qq.com
 0.0.0.0	trace.seeyouyima.com
 0.0.0.0	tracelog-debug.aiclk.com
