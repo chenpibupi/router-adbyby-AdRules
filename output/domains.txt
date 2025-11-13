@@ -1,14 +1,14 @@
-# Version: 2025-11-13 04:40:12
+# Version: 2025-11-13 16:45:51
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27357
+# Total domains: 27353
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27515
-! Version: 2025-11-13 02:18:21（北京时间）
+! Total count: 27511
+! Version: 2025-11-13 14:19:35（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -16684,7 +16684,6 @@ google-analytics.com/analytics.js
 googleadapis.com
 googleads-cn.com
 googleads.g.doubleclick-cn.net
-googleads.g.doubleclick.com
 googleads.g.doubleclick.nes
 googleads.g.doubleclick.net
 googleadservices-cn.com
@@ -18067,7 +18066,6 @@ itpest.cn
 its-dori.tumblr.com
 its.fugetech.com
 itv.hexun.com
-itv2-up.openspeech.cn
 itweepinbelltor.com
 itxinrou.com
 ityangstudy.cn
@@ -22673,7 +22671,6 @@ resource.baomihua.com
 responsys.net
 restorationbowelsunflower.com
 ret.xinlongrubber.com
-rev.aiclk.com
 rev.fapdu.com
 revdepo.com
 revealads.appspot.com
@@ -23565,7 +23562,6 @@ sm2kz.net
 smaato.net
 smabye.com
 smad.ms.zhangyue.net
-smart-tv.cn
 smartad.10010.com
 smartadserver.com
 smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose

@@ -1,7 +1,7 @@
-# Version: 2025-11-13 04:40:12
+# Version: 2025-11-13 16:45:51
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27357
+# Total domains: 27353
 
 0.0.0.0	!
 0.0.0.0	!
@@ -16684,7 +16684,6 @@
 0.0.0.0	googleadapis.com
 0.0.0.0	googleads-cn.com
 0.0.0.0	googleads.g.doubleclick-cn.net
-0.0.0.0	googleads.g.doubleclick.com
 0.0.0.0	googleads.g.doubleclick.nes
 0.0.0.0	googleads.g.doubleclick.net
 0.0.0.0	googleadservices-cn.com
@@ -18067,7 +18066,6 @@
 0.0.0.0	its-dori.tumblr.com
 0.0.0.0	its.fugetech.com
 0.0.0.0	itv.hexun.com
-0.0.0.0	itv2-up.openspeech.cn
 0.0.0.0	itweepinbelltor.com
 0.0.0.0	itxinrou.com
 0.0.0.0	ityangstudy.cn
@@ -22673,7 +22671,6 @@
 0.0.0.0	responsys.net
 0.0.0.0	restorationbowelsunflower.com
 0.0.0.0	ret.xinlongrubber.com
-0.0.0.0	rev.aiclk.com
 0.0.0.0	rev.fapdu.com
 0.0.0.0	revdepo.com
 0.0.0.0	revealads.appspot.com
@@ -23565,7 +23562,6 @@
 0.0.0.0	smaato.net
 0.0.0.0	smabye.com
 0.0.0.0	smad.ms.zhangyue.net
-0.0.0.0	smart-tv.cn
 0.0.0.0	smartad.10010.com
 0.0.0.0	smartadserver.com
 0.0.0.0	smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
