@@ -1,14 +1,14 @@
-# Version: 2025-11-15 16:40:32
+# Version: 2025-11-16 04:35:32
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27366
+# Total domains: 27374
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27524
-! Version: 2025-11-15 14:17:29（北京时间）
+! Total count: 27535
+! Version: 2025-11-16 02:15:20（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -3227,7 +3227,6 @@
 0.0.0.0 gtvpn.getui.com
 0.0.0.0 guess.mediav.com
 0.0.0.0 guess.tf.360.cn
-0.0.0.0 guide-acs.m.taobao.com
 0.0.0.0 guomob.com
 0.0.0.0 gv.xdrig.com
 0.0.0.0 gv1.xdrig.com
@@ -11690,6 +11689,8 @@ adsmind.gdtimg.com
 adsmind.gdtimg.com.svideolego-dk.sched.dcloudstc.com
 adsmind.tc.qq.com
 adsmind.ugdtimg.com
+adsmind.ugdtimg.com.svideolego-dk.sched.dcloudstc.com
+adsmind.ugdtimg.com.tcdn.qq.com
 adsmogo.com
 adsmoloco.com
 adsolution.imtt.qq.com
@@ -15133,11 +15134,13 @@ dns.iqiyi.com
 dns.jd.com
 dns.qiyipic.iqiyi.com
 dns.qq.com
+dns.wechat.com
 dns.weibo.cn
 dns.weixin.qq.com
 dns.weixin.qq.com*
 dns.weixin.qq.com.cn
 dns2.q2cdn.com
+dns2.titannetwork.cn
 dnvus.com
 dnyzbp.cn
 dnzmhr.xyz
@@ -16160,7 +16163,6 @@ fillhr.xyz
 filter.appstore.vivo.com.cn
 fimserve.ign.com
 finance-gateway.diandian.com.cn
-findermp.video.qq.com
 finderydy.video.qq.com
 findicons.com
 finding.hardwareheaven.com
@@ -17322,6 +17324,7 @@ httpdns.c.cdnhwc2.com
 httpdns.calorietech.com
 httpdns.cctv.com
 httpdns.danuoyi.tbcache.com
+httpdns.gslb.yy.com
 httpdns.huaweicloud.com
 httpdns.kg.qq.com
 httpdns.kwd.inkuai.com
@@ -17507,6 +17510,7 @@ i.tansuotv.com
 i.vip.iqiyi.com
 i.w55c.net
 i.xicairencs.cn
+i.ys7.com
 i.zhuoyaju.com
 i1236.net
 i2.akjunshi.com
@@ -19156,6 +19160,7 @@ lf*-orange.byteorge.com
 lf*-sf-be-pack-sign.pglstatp-toutiao.com
 lf-cdn-tos.bytescm.com
 lf-leads-fe-scm.bytecdn.com
+lf-leads-fe-scm.bytecdn.com.*.queniubg.com
 lf-reward-video.bytedcdn.com
 lf-wkrs.wkbrowser.com
 lf26-sf-be-pack-sign.pglstatp-toutiao.com
@@ -19469,6 +19474,7 @@ logger.baofeng.com
 logger.qingting.fm
 logger.treexml.baofeng.com
 loggw.alipay.com.cn
+loggw.alipaydns.com
 lognew.cloooud.com
 logonext.tv.kuyun.com
 logos.kiwibrowser.com
@@ -22161,6 +22167,7 @@ pvymlsvo.xyz
 pwj.biqugezw.com
 px-intl.ucweb.com
 px.adhigh.net
+px.ads.linkedin.cn
 px.media-serving.com
 px.moatads.com
 px.owneriq.net
@@ -23076,6 +23083,7 @@ saxs.sina.com.cn
 saxxaz.taohuayuan8888.com
 saxysec.com
 sb.adtidy.com
+sb.adtidy.org
 sb.scorecardresearch.com
 sb4you1.com
 sb6k.top
@@ -23288,6 +23296,7 @@ sentry.d.xiaomi.net
 sentry.fintopia.tech
 sentry.io
 sentry.kuaishou.com
+sentry.kugou.com
 sentry.music.163.com
 senxiaopang.top
 seordl.cn
@@ -23458,7 +23467,6 @@ shuttle.bayescom.com
 shuyu2001.cn
 shuzilm.cn
 shxinjie.cn
-shytkjgs.com
 shzyjbr.wtdtjs.rocks
 si9377.com
 sicentlife.com
