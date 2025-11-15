@@ -1,14 +1,14 @@
-# Version: 2025-11-15 04:39:02
+# Version: 2025-11-15 16:40:32
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27365
+# Total domains: 27366
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27523
-! Version: 2025-11-15 02:17:53（北京时间）
+! Total count: 27524
+! Version: 2025-11-15 14:17:29（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -27178,6 +27178,7 @@ zhihei.com
 zhihu-web-analytics.zhihu.com
 zhihu.com##.KfeCollection-VipRecommendCard
 zhihu.com##.OpenInAppButton
+zhihu.com##.zhihuAdvert-MBanner-wordDownload
 zhihu.com##A.MBannerAd
 zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 zhihu.com/plutus_adreaper?ar=*
