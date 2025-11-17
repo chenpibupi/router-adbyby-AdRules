@@ -1,7 +1,7 @@
-# Version: 2025-11-17 16:47:22
+# Version: 2025-11-18 04:38:11
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27374
+# Total domains: 27375
 
 0.0.0.0	!
 0.0.0.0	!
@@ -10521,6 +10521,7 @@
 0.0.0.0	@@||x19.update.netease.com
 0.0.0.0	@@||x2.ifengimg.com
 0.0.0.0	@@||x6img.com
+0.0.0.0	@@||xbk.189.cn
 0.0.0.0	@@||xhslink.com
 0.0.0.0	@@||xiaomiev.com
 0.0.0.0	@@||xiaoshuo.wtzw.com
