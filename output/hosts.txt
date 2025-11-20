@@ -1,7 +1,7 @@
-# Version: 2025-11-20 16:46:06
+# Version: 2025-11-21 04:39:35
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27384
+# Total domains: 27385
 
 0.0.0.0	!
 0.0.0.0	!
@@ -10333,6 +10333,7 @@
 0.0.0.0	@@||wmflabs.org
 0.0.0.0	@@||wodenongtian.com
 0.0.0.0	@@||woniu.com
+0.0.0.0	@@||woocall.sina.com.cn
 0.0.0.0	@@||work.weixin.qq.com
 0.0.0.0	@@||world.qpic.cn
 0.0.0.0	@@||worldwide.sogou.com
