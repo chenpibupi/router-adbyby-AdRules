@@ -1,7 +1,7 @@
-# Version: 2025-11-21 16:46:05
+# Version: 2025-11-22 04:39:18
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27386
+# Total domains: 27387
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12174,6 +12174,7 @@
 0.0.0.0	aoodoo.feng.com
 0.0.0.0	aoodoo.weiphone.com
 0.0.0.0	aoqinglv.cn
+0.0.0.0	aorlpi.cn
 0.0.0.0	aornkmae.com
 0.0.0.0	aos-creative.prf.hn
 0.0.0.0	aos.wall.youmi.net
