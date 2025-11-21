@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27543
-! Version: 2025-11-21 02:18:33（北京时间）
+! Total count: 27544
+! Version: 2025-11-21 14:19:41（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -24245,6 +24245,7 @@ tagcommander.com
 tags.growingio.com
 tags2.adshell.net
 tags4.revdepo.com
+tagtd.cn
 tahltanboutell.com
 tailscale.io
 tailtarget.com

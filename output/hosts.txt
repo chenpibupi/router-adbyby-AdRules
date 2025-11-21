@@ -1,7 +1,7 @@
-# Version: 2025-11-21 04:39:35
+# Version: 2025-11-21 16:46:05
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27385
+# Total domains: 27386
 
 0.0.0.0	!
 0.0.0.0	!
@@ -24249,6 +24249,7 @@
 0.0.0.0	tags.growingio.com
 0.0.0.0	tags2.adshell.net
 0.0.0.0	tags4.revdepo.com
+0.0.0.0	tagtd.cn
 0.0.0.0	tahltanboutell.com
 0.0.0.0	tailscale.io
 0.0.0.0	tailtarget.com
