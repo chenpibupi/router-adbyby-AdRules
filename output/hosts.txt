@@ -1,7 +1,7 @@
-# Version: 2025-11-22 16:41:29
+# Version: 2025-11-23 04:37:20
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27387
+# Total domains: 27389
 
 0.0.0.0	!
 0.0.0.0	!
@@ -276,10 +276,13 @@
 0.0.0.0	-normal-lq.zijieapi.com
 0.0.0.0	.buzz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
 0.0.0.0	.buzz/*0*0*0*==$third-party
+0.0.0.0	.cn/*/o*.js?t=*$domain=12ju.com
 0.0.0.0	.cn/2022/*/*.txt$third-party
 0.0.0.0	.cn/2023/*/*.txt$third-party
 0.0.0.0	.cn/ack?s=*$third-party
 0.0.0.0	.cn/bid?url=*$third-party
+0.0.0.0	.cn/d/o*.js?t=*
+0.0.0.0	.cn/e/o*.js?t=*
 0.0.0.0	.cn/redbaiduct.com?s=$third-party
 0.0.0.0	.cn:*/d/*?c=*$third-party
 0.0.0.0	.cn:*/sc/*?n=$third-party
@@ -11987,7 +11990,6 @@
 0.0.0.0	aitongji.vip
 0.0.0.0	aiwei365.net
 0.0.0.0	aiwen.cc
-0.0.0.0	aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class
 0.0.0.0	aixiumeiwusf911.cdty.org.cn
 0.0.0.0	aizhantj.com
 0.0.0.0	aj-gb.mgid.com
