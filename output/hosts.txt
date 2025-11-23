@@ -1,7 +1,7 @@
-# Version: 2025-11-23 04:37:20
+# Version: 2025-11-23 16:41:25
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27389
+# Total domains: 27395
 
 0.0.0.0	!
 0.0.0.0	!
@@ -294,6 +294,7 @@
 0.0.0.0	.com/c.php?s=*=*=$third-party
 0.0.0.0	.com/candy*.js$third-party
 0.0.0.0	.com/gg.js
+0.0.0.0	.com/hm/*?*=*$third-party
 0.0.0.0	.com/js/g.js
 0.0.0.0	.com/qq.js$third-party
 0.0.0.0	.com/sh/*.js$third-party
@@ -445,6 +446,7 @@
 0.0.0.0	/pglstatp-toutiao.*/
 0.0.0.0	/public/tingshu/foor.js$~third-party
 0.0.0.0	/redbaiduct.com?s=
+0.0.0.0	/resolve?type=*&short=*&name=$third-party
 0.0.0.0	/scripts/snstyle.js?v=2$~third-party
 0.0.0.0	/show_ads_
 0.0.0.0	/sinaads/release/sinaads.js
@@ -466,6 +468,7 @@
 0.0.0.0	/template/piankuwap/js/afoot.js
 0.0.0.0	/theme/damn_b.js$~third-party
 0.0.0.0	/tj/tongji.js?v=$third-party
+0.0.0.0	/tjjs.js
 0.0.0.0	/v0/amp-addthis-*.js
 0.0.0.0	/v2/stats/1*/1*$third-party
 0.0.0.0	/v2/stats/9*$third-party
@@ -475,6 +478,8 @@
 0.0.0.0	/vj2/*$third-party
 0.0.0.0	/vj3/*$third-party
 0.0.0.0	/xtub_*_rony.js$third-party
+0.0.0.0	/xx/d.js
+0.0.0.0	/xx/f12.js
 0.0.0.0	/xxgg/gd*.js
 0.0.0.0	/xxgg/pf*.js
 0.0.0.0	/yinghuacd/bottom.js
@@ -13456,6 +13461,7 @@
 0.0.0.0	bytedance.com
 0.0.0.0	bytedance.com.queniurc.com
 0.0.0.0	bytedance.com.w.cdngslb.com
+0.0.0.0	bytegoofy.com/goofy/*/push.js?
 0.0.0.0	byteorge.com
 0.0.0.0	byvlph.xyz
 0.0.0.0	bzhn9y.icu

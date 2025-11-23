@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27547
-! Version: 2025-11-23 02:16:10（北京时间）
+! Total count: 27553
+! Version: 2025-11-23 14:17:41（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -289,6 +289,7 @@
 .com/c.php?s=*=*=$third-party
 .com/candy*.js$third-party
 .com/gg.js
+.com/hm/*?*=*$third-party
 .com/js/g.js
 .com/qq.js$third-party
 .com/sh/*.js$third-party
@@ -440,6 +441,7 @@
 /pglstatp-toutiao.*/
 /public/tingshu/foor.js$~third-party
 /redbaiduct.com?s=
+/resolve?type=*&short=*&name=$third-party
 /scripts/snstyle.js?v=2$~third-party
 /show_ads_
 /sinaads/release/sinaads.js
@@ -461,6 +463,7 @@
 /template/piankuwap/js/afoot.js
 /theme/damn_b.js$~third-party
 /tj/tongji.js?v=$third-party
+/tjjs.js
 /v0/amp-addthis-*.js
 /v2/stats/1*/1*$third-party
 /v2/stats/9*$third-party
@@ -470,6 +473,8 @@
 /vj2/*$third-party
 /vj3/*$third-party
 /xtub_*_rony.js$third-party
+/xx/d.js
+/xx/f12.js
 /xxgg/gd*.js
 /xxgg/pf*.js
 /yinghuacd/bottom.js
@@ -13451,6 +13456,7 @@ bypbwm.cn
 bytedance.com
 bytedance.com.queniurc.com
 bytedance.com.w.cdngslb.com
+bytegoofy.com/goofy/*/push.js?
 byteorge.com
 byvlph.xyz
 bzhn9y.icu
