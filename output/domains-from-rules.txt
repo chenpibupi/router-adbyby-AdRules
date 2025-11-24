@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27553
-! Version: 2025-11-24 02:16:34（北京时间）
+! Total count: 27554
+! Version: 2025-11-24 14:20:04（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -24988,6 +24988,7 @@ ugdtimg.com
 ugfe111.top
 ugg.keefung-zs.com
 ugg66.com
+ugox.cn
 ugsdk.cn
 ugugct.xyz
 ugvip.com

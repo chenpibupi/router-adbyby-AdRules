@@ -1,7 +1,7 @@
-# Version: 2025-11-24 04:38:18
+# Version: 2025-11-24 16:47:52
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27395
+# Total domains: 27396
 
 0.0.0.0	!
 0.0.0.0	!
@@ -24992,6 +24992,7 @@
 0.0.0.0	ugfe111.top
 0.0.0.0	ugg.keefung-zs.com
 0.0.0.0	ugg66.com
+0.0.0.0	ugox.cn
 0.0.0.0	ugsdk.cn
 0.0.0.0	ugugct.xyz
 0.0.0.0	ugvip.com
