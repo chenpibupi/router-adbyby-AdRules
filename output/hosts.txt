@@ -1,7 +1,7 @@
-# Version: 2025-11-24 16:47:52
+# Version: 2025-11-25 04:38:30
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27396
+# Total domains: 27397
 
 0.0.0.0	!
 0.0.0.0	!
@@ -484,7 +484,6 @@
 0.0.0.0	/xxgg/pf*.js
 0.0.0.0	/yinghuacd/bottom.js
 0.0.0.0	/zijieapi.*/
-0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
@@ -9954,6 +9953,7 @@
 0.0.0.0	@@||sofire.baidu.com
 0.0.0.0	@@||sofire.bdstatic.com
 0.0.0.0	@@||soft.360.cn
+0.0.0.0	@@||soft.imtt.qq.com
 0.0.0.0	@@||soft.tbs.imtt.qq.com
 0.0.0.0	@@||soup.v.qq.com
 0.0.0.0	@@||sourl.cn
@@ -10290,6 +10290,7 @@
 0.0.0.0	@@||vodkgeyttp9.vod.126.net
 0.0.0.0	@@||volcengine-cache-weboffice.wpscdn.cn
 0.0.0.0	@@||volcengine-kdocs-cache.wpscdn.cn
+0.0.0.0	@@||vpic.cms.qq.com
 0.0.0.0	@@||vps.uc.cn
 0.0.0.0	@@||vscode.download.prss.microsoft.com
 0.0.0.0	@@||vv.video.qq.com
