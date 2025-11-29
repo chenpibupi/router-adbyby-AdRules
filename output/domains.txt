@@ -1,14 +1,14 @@
-# Version: 2025-11-29 16:43:02
+# Version: 2025-11-30 04:38:22
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27398
+# Total domains: 27400
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27556
-! Version: 2025-11-29 14:18:01（北京时间）
+! Total count: 27558
+! Version: 2025-11-30 02:16:28（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -8318,6 +8318,7 @@
 @@||avatar.csdnimg.cn
 @@||avc.tapimg.com
 @@||avgle.com
+@@||award.xmcdn.com
 @@||aweme.snssdk.com
 @@||awp-assets.meituan.net
 @@||b.163.com
@@ -8848,6 +8849,7 @@
 @@||gameimg.qidian.com
 @@||games-community-gl.heytapmobile.com
 @@||games.mobileapi.hupu.com
+@@||gamezop.com
 @@||gateway.kugou.com
 @@||gcable.com.cn
 @@||gdfp.gifshow.com
@@ -12727,7 +12729,6 @@ avualrhg9p.bid
 aw.kejet.net
 awaitcola.com
 award.sitekeuring.net
-award.xmcdn.com
 awdc6.com
 awempire.com
 awiudbyqbpo.com
@@ -23959,6 +23960,7 @@ staticadm.leju.com
 staticadm.leju.sina.com.cn
 statichf.shihuocdn.cn
 staticjs.cn
+statics.123*.com/static/ks/
 statics.3987.com
 statics.9669.com
 statics.woozooo.com

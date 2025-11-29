@@ -1,7 +1,7 @@
-# Version: 2025-11-29 16:43:02
+# Version: 2025-11-30 04:38:22
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27398
+# Total domains: 27400
 
 0.0.0.0	!
 0.0.0.0	!
@@ -8318,6 +8318,7 @@
 0.0.0.0	@@||avatar.csdnimg.cn
 0.0.0.0	@@||avc.tapimg.com
 0.0.0.0	@@||avgle.com
+0.0.0.0	@@||award.xmcdn.com
 0.0.0.0	@@||aweme.snssdk.com
 0.0.0.0	@@||awp-assets.meituan.net
 0.0.0.0	@@||b.163.com
@@ -8848,6 +8849,7 @@
 0.0.0.0	@@||gameimg.qidian.com
 0.0.0.0	@@||games-community-gl.heytapmobile.com
 0.0.0.0	@@||games.mobileapi.hupu.com
+0.0.0.0	@@||gamezop.com
 0.0.0.0	@@||gateway.kugou.com
 0.0.0.0	@@||gcable.com.cn
 0.0.0.0	@@||gdfp.gifshow.com
@@ -12727,7 +12729,6 @@
 0.0.0.0	aw.kejet.net
 0.0.0.0	awaitcola.com
 0.0.0.0	award.sitekeuring.net
-0.0.0.0	award.xmcdn.com
 0.0.0.0	awdc6.com
 0.0.0.0	awempire.com
 0.0.0.0	awiudbyqbpo.com
@@ -23959,6 +23960,7 @@
 0.0.0.0	staticadm.leju.sina.com.cn
 0.0.0.0	statichf.shihuocdn.cn
 0.0.0.0	staticjs.cn
+0.0.0.0	statics.123*.com/static/ks/
 0.0.0.0	statics.3987.com
 0.0.0.0	statics.9669.com
 0.0.0.0	statics.woozooo.com
