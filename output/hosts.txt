@@ -1,7 +1,7 @@
-# Version: 2025-11-30 16:40:58
+# Version: 2025-12-01 04:38:35
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27401
+# Total domains: 27420
 
 0.0.0.0	!
 0.0.0.0	!
@@ -9334,6 +9334,7 @@
 0.0.0.0	@@||m1.img.10010.com
 0.0.0.0	@@||m1.pxb7.com
 0.0.0.0	@@||m15.360buyimg.com
+0.0.0.0	@@||m2.da.mgtv.com
 0.0.0.0	@@||m2.img.10010.com
 0.0.0.0	@@||m7.music.126.net
 0.0.0.0	@@||m7.pzds.com
@@ -10271,6 +10272,7 @@
 0.0.0.0	@@||verify.zijieapi.com
 0.0.0.0	@@||vfiles.gtimg.cn
 0.0.0.0	@@||via.placeholder.com
+0.0.0.0	@@||video.da.mgtv.com
 0.0.0.0	@@||video.goofish.com
 0.0.0.0	@@||video.kts.g.mi.com
 0.0.0.0	@@||video.twimg.com
@@ -11044,6 +11046,7 @@
 0.0.0.0	ad.iloveinterracial.com
 0.0.0.0	ad.infoseek.com
 0.0.0.0	ad.intl.xiaomi.com
+0.0.0.0	ad.iot.360.cn
 0.0.0.0	ad.ipadview.com
 0.0.0.0	ad.jamba.net
 0.0.0.0	ad.jamster.co.uk
@@ -11061,6 +11064,7 @@
 0.0.0.0	ad.leadboltapps.net
 0.0.0.0	ad.leadboltmobile.net
 0.0.0.0	ad.letmeads.com
+0.0.0.0	ad.life.360.cn
 0.0.0.0	ad.livere.co.kr
 0.0.0.0	ad.lovefree.cc
 0.0.0.0	ad.lqalm.com
@@ -11112,6 +11116,7 @@
 0.0.0.0	ad.seeyouyima.com
 0.0.0.0	ad.sensismediasmart.com.au
 0.0.0.0	ad.services.distractify.com
+0.0.0.0	ad.shenshiads.com
 0.0.0.0	ad.shunchangzhixing.com
 0.0.0.0	ad.shuoshuomi.com
 0.0.0.0	ad.sina.com.cn
@@ -11771,6 +11776,7 @@
 0.0.0.0	adups.com
 0.0.0.0	adutp.com
 0.0.0.0	aduu.cn
+0.0.0.0	adv-api.shenshiads.com
 0.0.0.0	adv-sv-show.focus.cn
 0.0.0.0	adv-sv-stat.focus.cn
 0.0.0.0	adv.app.qq.com
@@ -12133,6 +12139,7 @@
 0.0.0.0	analytics.libertymutual.com.edgekey.net
 0.0.0.0	analytics.map.qq.com
 0.0.0.0	analytics.meituan.net
+0.0.0.0	analytics.oceanengine.com
 0.0.0.0	analytics.pinterest.com
 0.0.0.0	analytics.pointdrive.linkedin.com
 0.0.0.0	analytics.query.yahoo.com
@@ -12219,7 +12226,9 @@
 0.0.0.0	api-access.pangolin-sdk-toutiao4.com
 0.0.0.0	api-access.pangolin-sdk-toutiao5.com
 0.0.0.0	api-ad-adapter-sg.wps.com
+0.0.0.0	api-ad-data.kajicam.com
 0.0.0.0	api-ad-product.huxiu.com
+0.0.0.0	api-ad.kajicam.com
 0.0.0.0	api-adservices.apple.com
 0.0.0.0	api-cloudfalcon.hismarttv.com
 0.0.0.0	api-cn.open.heytapmobi.com
@@ -15828,6 +15837,7 @@
 0.0.0.0	endowmentoverhangutmost.com
 0.0.0.0	endpoint.zhuishushenqi.com
 0.0.0.0	enennsa.gushiwen.cn
+0.0.0.0	engine.dcad01.com
 0.0.0.0	engine.lvehaisen.com
 0.0.0.0	engine.tuia.cn
 0.0.0.0	enhad.xyz
@@ -17562,6 +17572,7 @@
 0.0.0.0	iadfeed.iad.apple.com
 0.0.0.0	iadmatapk.nosdn.127.net
 0.0.0.0	iadmatvideo.nosdn.127.net
+0.0.0.0	iadmusicmat.music.126.net
 0.0.0.0	iadmusicmatvideo.music.126.net
 0.0.0.0	iads.xinmin.cn
 0.0.0.0	iadsdk.apple.com
@@ -19437,6 +19448,7 @@
 0.0.0.0	log.fc.yahoo.com
 0.0.0.0	log.hunantv.com
 0.0.0.0	log.iflytek.com
+0.0.0.0	log.ireader.com
 0.0.0.0	log.jd.com
 0.0.0.0	log.kuwo.cn
 0.0.0.0	log.m.sm.cn
@@ -19499,6 +19511,7 @@
 0.0.0.0	logos.kiwibrowser.com
 0.0.0.0	logoshejishi.com
 0.0.0.0	logrcv.aiclk.com
+0.0.0.0	logrcv.yunxish.com
 0.0.0.0	logs.amap.com
 0.0.0.0	logs.chelaile.net.cn
 0.0.0.0	logsdk.qq.com
@@ -19943,6 +19956,7 @@
 0.0.0.0	m.sbenx.com
 0.0.0.0	m.sbinx.com
 0.0.0.0	m.sewxi.com
+0.0.0.0	m.shenshiads.com
 0.0.0.0	m.shenyunkeji.com
 0.0.0.0	m.simba.taobao.com
 0.0.0.0	m.sjaidu.com
@@ -23072,6 +23086,8 @@
 0.0.0.0	safe-aisle.jointreport-switch.com
 0.0.0.0	safe.tsgpay.cn
 0.0.0.0	safebrowsing.apple
+0.0.0.0	safebrowsing.googleapis.com
+0.0.0.0	safebrowsing.urlsec.gg.com
 0.0.0.0	saferwet.com
 0.0.0.0	sahqoo.com
 0.0.0.0	saitef.cn
@@ -24647,6 +24663,7 @@
 0.0.0.0	trace.seeyouyima.com
 0.0.0.0	tracelog-debug.aiclk.com
 0.0.0.0	tracelog-debug.qquanquan.com
+0.0.0.0	tracelog-debug.yunxish.com
 0.0.0.0	track-east.mobileadtrading.com
 0.0.0.0	track.58.com
 0.0.0.0	track.66mobi.com
@@ -26221,6 +26238,7 @@
 0.0.0.0	xcvwrj.xyz
 0.0.0.0	xcwl.tech
 0.0.0.0	xcwzq.xyz
+0.0.0.0	xcx.dcad01.com
 0.0.0.0	xcy8.com
 0.0.0.0	xcyjzs.net
 0.0.0.0	xcyrc.com
@@ -27257,6 +27275,7 @@
 0.0.0.0	zjjgtz.com
 0.0.0.0	zjkssw.com
 0.0.0.0	zjm.zzmmkj.com
+0.0.0.0	zjres-ad.kajicam.com
 0.0.0.0	zjthzf.xyz
 0.0.0.0	zjzh2019.com
 0.0.0.0	zkrdy.com

@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27559
-! Version: 2025-11-30 14:18:45（北京时间）
+! Total count: 27578
+! Version: 2025-12-01 02:16:47（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -9330,6 +9330,7 @@
 @@||m1.img.10010.com
 @@||m1.pxb7.com
 @@||m15.360buyimg.com
+@@||m2.da.mgtv.com
 @@||m2.img.10010.com
 @@||m7.music.126.net
 @@||m7.pzds.com
@@ -10267,6 +10268,7 @@
 @@||verify.zijieapi.com
 @@||vfiles.gtimg.cn
 @@||via.placeholder.com
+@@||video.da.mgtv.com
 @@||video.goofish.com
 @@||video.kts.g.mi.com
 @@||video.twimg.com
@@ -11040,6 +11042,7 @@ ad.idgtn.net
 ad.iloveinterracial.com
 ad.infoseek.com
 ad.intl.xiaomi.com
+ad.iot.360.cn
 ad.ipadview.com
 ad.jamba.net
 ad.jamster.co.uk
@@ -11057,6 +11060,7 @@ ad.leadboltads.net
 ad.leadboltapps.net
 ad.leadboltmobile.net
 ad.letmeads.com
+ad.life.360.cn
 ad.livere.co.kr
 ad.lovefree.cc
 ad.lqalm.com
@@ -11108,6 +11112,7 @@ ad.search.ch
 ad.seeyouyima.com
 ad.sensismediasmart.com.au
 ad.services.distractify.com
+ad.shenshiads.com
 ad.shunchangzhixing.com
 ad.shuoshuomi.com
 ad.sina.com.cn
@@ -11767,6 +11772,7 @@ adultfriendfinder.com
 adups.com
 adutp.com
 aduu.cn
+adv-api.shenshiads.com
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
 adv.app.qq.com
@@ -12129,6 +12135,7 @@ analytics.google.com
 analytics.libertymutual.com.edgekey.net
 analytics.map.qq.com
 analytics.meituan.net
+analytics.oceanengine.com
 analytics.pinterest.com
 analytics.pointdrive.linkedin.com
 analytics.query.yahoo.com
@@ -12215,7 +12222,9 @@ api-access.pangolin-sdk-toutiao3.com
 api-access.pangolin-sdk-toutiao4.com
 api-access.pangolin-sdk-toutiao5.com
 api-ad-adapter-sg.wps.com
+api-ad-data.kajicam.com
 api-ad-product.huxiu.com
+api-ad.kajicam.com
 api-adservices.apple.com
 api-cloudfalcon.hismarttv.com
 api-cn.open.heytapmobi.com
@@ -15824,6 +15833,7 @@ en.shenyun.org
 endowmentoverhangutmost.com
 endpoint.zhuishushenqi.com
 enennsa.gushiwen.cn
+engine.dcad01.com
 engine.lvehaisen.com
 engine.tuia.cn
 enhad.xyz
@@ -17558,6 +17568,7 @@ iadctest.qwapi.com
 iadfeed.iad.apple.com
 iadmatapk.nosdn.127.net
 iadmatvideo.nosdn.127.net
+iadmusicmat.music.126.net
 iadmusicmatvideo.music.126.net
 iads.xinmin.cn
 iadsdk.apple.com
@@ -19433,6 +19444,7 @@ log.daqi.com
 log.fc.yahoo.com
 log.hunantv.com
 log.iflytek.com
+log.ireader.com
 log.jd.com
 log.kuwo.cn
 log.m.sm.cn
@@ -19495,6 +19507,7 @@ logonext.tv.kuyun.com
 logos.kiwibrowser.com
 logoshejishi.com
 logrcv.aiclk.com
+logrcv.yunxish.com
 logs.amap.com
 logs.chelaile.net.cn
 logsdk.qq.com
@@ -19939,6 +19952,7 @@ m.sanjiangge.com
 m.sbenx.com
 m.sbinx.com
 m.sewxi.com
+m.shenshiads.com
 m.shenyunkeji.com
 m.simba.taobao.com
 m.sjaidu.com
@@ -23068,6 +23082,8 @@ sadsaxd.nlkmp.com
 safe-aisle.jointreport-switch.com
 safe.tsgpay.cn
 safebrowsing.apple
+safebrowsing.googleapis.com
+safebrowsing.urlsec.gg.com
 saferwet.com
 sahqoo.com
 saitef.cn
@@ -24643,6 +24659,7 @@ trace.qq.com
 trace.seeyouyima.com
 tracelog-debug.aiclk.com
 tracelog-debug.qquanquan.com
+tracelog-debug.yunxish.com
 track-east.mobileadtrading.com
 track.58.com
 track.66mobi.com
@@ -26217,6 +26234,7 @@ xco.qwxcs.com
 xcvwrj.xyz
 xcwl.tech
 xcwzq.xyz
+xcx.dcad01.com
 xcy8.com
 xcyjzs.net
 xcyrc.com
@@ -27253,6 +27271,7 @@ zjjbtl.com
 zjjgtz.com
 zjkssw.com
 zjm.zzmmkj.com
+zjres-ad.kajicam.com
 zjthzf.xyz
 zjzh2019.com
 zkrdy.com
