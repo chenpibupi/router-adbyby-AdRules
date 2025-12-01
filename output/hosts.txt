@@ -1,7 +1,7 @@
-# Version: 2025-12-01 16:50:11
+# Version: 2025-12-02 04:37:23
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27420
+# Total domains: 27424
 
 0.0.0.0	!
 0.0.0.0	!
@@ -15968,6 +15968,7 @@
 0.0.0.0	exp.qumi.com
 0.0.0.0	expo123.net
 0.0.0.0	ext-adv.kaixinyf.cn
+0.0.0.0	ext.baidu.com
 0.0.0.0	ext.theglobalweb.com
 0.0.0.0	extlog.snssdk.com
 0.0.0.0	extmaps-api.yandex.net
@@ -17093,6 +17094,7 @@
 0.0.0.0	hebeixingfei.com
 0.0.0.0	hebstsmgs.com
 0.0.0.0	hechaocheng.cn
+0.0.0.0	hectorstatic.baidu.com
 0.0.0.0	heefwozhlxgz.com
 0.0.0.0	hefan365.com
 0.0.0.0	hefei64.com
@@ -22925,6 +22927,7 @@
 0.0.0.0	s.abcache.com
 0.0.0.0	s.amazon-adsystem.com
 0.0.0.0	s.baidu.com
+0.0.0.0	s.bdstatic.com
 0.0.0.0	s.bmgan.com
 0.0.0.0	s.btime.com
 0.0.0.0	s.caduka.cn
@@ -23745,6 +23748,7 @@
 0.0.0.0	sp.xhqb.com
 0.0.0.0	sp.xhqbapp.com
 0.0.0.0	sp.yixui.com
+0.0.0.0	sp1.baidu.com
 0.0.0.0	sp3.cndm.com
 0.0.0.0	sp5vip.com/h.js
 0.0.0.0	spad.i-mobile.co.jp

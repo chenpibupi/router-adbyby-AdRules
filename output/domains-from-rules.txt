@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27578
-! Version: 2025-12-01 14:21:29（北京时间）
+! Total count: 27582
+! Version: 2025-12-02 02:20:25（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -15964,6 +15964,7 @@ exp.3g.ifeng.com
 exp.qumi.com
 expo123.net
 ext-adv.kaixinyf.cn
+ext.baidu.com
 ext.theglobalweb.com
 extlog.snssdk.com
 extmaps-api.yandex.net
@@ -17089,6 +17090,7 @@ heavenmedia.v3g4s.com
 hebeixingfei.com
 hebstsmgs.com
 hechaocheng.cn
+hectorstatic.baidu.com
 heefwozhlxgz.com
 hefan365.com
 hefei64.com
@@ -22921,6 +22923,7 @@ s.6travel.com
 s.abcache.com
 s.amazon-adsystem.com
 s.baidu.com
+s.bdstatic.com
 s.bmgan.com
 s.btime.com
 s.caduka.cn
@@ -23741,6 +23744,7 @@ sp.wndoor.com
 sp.xhqb.com
 sp.xhqbapp.com
 sp.yixui.com
+sp1.baidu.com
 sp3.cndm.com
 sp5vip.com/h.js
 spad.i-mobile.co.jp
