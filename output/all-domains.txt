@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
 ! Total count: 27582
-! Version: 2025-12-02 14:20:50（北京时间）
+! Version: 2025-12-03 02:20:12（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
