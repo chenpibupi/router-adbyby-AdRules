@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27582
-! Version: 2025-12-03 14:20:23（北京时间）
+! Total count: 27587
+! Version: 2025-12-04 02:19:55（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -15961,6 +15961,9 @@ exosrv.com
 exp.17wo.cn
 exp.3g.ifeng.com
 exp.qumi.com
+expendablekmr.kugou.com
+expendablekmrcdn.kugou.com
+expendablekmrcdnretry.kugou.com
 expo123.net
 ext-adv.kaixinyf.cn
 ext.baidu.com
@@ -18903,6 +18906,8 @@ kmpl.rnqxp.cn
 kmpxq.cn
 kmr.enrosr.cn
 kmr.mjnbrt.xyz
+kmr.service.kugou.com
+kmrcdn.service.kugou.com
 kmwatsonc.events.data.microsoft.com
 kmwatsonc.telemetry.microsoft.com
 kmwqxqh.com

@@ -1,7 +1,7 @@
-# Version: 2025-12-03 16:48:44
+# Version: 2025-12-04 04:43:21
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27424
+# Total domains: 27429
 
 0.0.0.0	!
 0.0.0.0	!
@@ -15966,6 +15966,9 @@
 0.0.0.0	exp.17wo.cn
 0.0.0.0	exp.3g.ifeng.com
 0.0.0.0	exp.qumi.com
+0.0.0.0	expendablekmr.kugou.com
+0.0.0.0	expendablekmrcdn.kugou.com
+0.0.0.0	expendablekmrcdnretry.kugou.com
 0.0.0.0	expo123.net
 0.0.0.0	ext-adv.kaixinyf.cn
 0.0.0.0	ext.baidu.com
@@ -18908,6 +18911,8 @@
 0.0.0.0	kmpxq.cn
 0.0.0.0	kmr.enrosr.cn
 0.0.0.0	kmr.mjnbrt.xyz
+0.0.0.0	kmr.service.kugou.com
+0.0.0.0	kmrcdn.service.kugou.com
 0.0.0.0	kmwatsonc.events.data.microsoft.com
 0.0.0.0	kmwatsonc.telemetry.microsoft.com
 0.0.0.0	kmwqxqh.com
