@@ -1,7 +1,7 @@
-# Version: 2025-12-04 16:48:07
+# Version: 2025-12-05 04:42:28
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27429
+# Total domains: 27434
 
 0.0.0.0	!
 0.0.0.0	!
@@ -265,6 +265,7 @@
 0.0.0.0	*pangolin*toutiao*.com
 0.0.0.0	*pglstatp-toutiao.com
 0.0.0.0	*snscosdownload*
+0.0.0.0	*stun.kugou.com
 0.0.0.0	*tianmu.mobi
 0.0.0.0	*umeng.com
 0.0.0.0	*unityads.unity3d.com
@@ -8036,6 +8037,7 @@
 0.0.0.0	@@googlesyndication.com$domain=bilinovel.com
 0.0.0.0	@@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 0.0.0.0	@@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
+0.0.0.0	@@|admin-oss-xlvip.a.88cdn.com
 0.0.0.0	@@|wxpaylogo.qpic.cn
 0.0.0.0	@@||*-cf.xvideos-cdn.com
 0.0.0.0	@@||*-open-sign.byteimg.com
@@ -22098,6 +22100,7 @@
 0.0.0.0	pss.alicdn.com
 0.0.0.0	pstatp.com/growth/fe_sdk/bannersdk
 0.0.0.0	pstatp.com/toutiao/push.js
+0.0.0.0	pstun.kugou.com
 0.0.0.0	pstvvb.xyz
 0.0.0.0	ptauxofi.net
 0.0.0.0	ptdrw.com
@@ -24044,7 +24047,9 @@
 0.0.0.0	strip.alicdn.com
 0.0.0.0	strip.taobaocdn.com
 0.0.0.0	studylabs.cn
+0.0.0.0	stun.*.kugou.com
 0.0.0.0	stun.hitv.com
+0.0.0.0	stun.kugou.com
 0.0.0.0	stun.syncthing.net
 0.0.0.0	stunthedge.com
 0.0.0.0	style-browse-openapi.test.gifshow.com

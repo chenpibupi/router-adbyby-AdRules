@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27587
-! Version: 2025-12-04 14:20:19（北京时间）
+! Total count: 27592
+! Version: 2025-12-05 02:20:34（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -261,6 +261,7 @@
 *pangolin*toutiao*.com
 *pglstatp-toutiao.com
 *snscosdownload*
+*stun.kugou.com
 *tianmu.mobi
 *umeng.com
 *unityads.unity3d.com
@@ -8032,6 +8033,7 @@
 @@googlesyndication.com$domain=bilinovel.com
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
+@@|admin-oss-xlvip.a.88cdn.com
 @@|wxpaylogo.qpic.cn
 @@||*-cf.xvideos-cdn.com
 @@||*-open-sign.byteimg.com
@@ -22094,6 +22096,7 @@ psma02.com
 pss.alicdn.com
 pstatp.com/growth/fe_sdk/bannersdk
 pstatp.com/toutiao/push.js
+pstun.kugou.com
 pstvvb.xyz
 ptauxofi.net
 ptdrw.com
@@ -24040,7 +24043,9 @@ stricaik.com
 strip.alicdn.com
 strip.taobaocdn.com
 studylabs.cn
+stun.*.kugou.com
 stun.hitv.com
+stun.kugou.com
 stun.syncthing.net
 stunthedge.com
 style-browse-openapi.test.gifshow.com
