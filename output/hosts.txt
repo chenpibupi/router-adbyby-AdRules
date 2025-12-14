@@ -1,7 +1,7 @@
-# Version: 2025-12-14 04:38:13
+# Version: 2025-12-14 16:43:40
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27434
+# Total domains: 27435
 
 0.0.0.0	!
 0.0.0.0	!
@@ -23724,6 +23724,7 @@
 0.0.0.0	sohu.com##.top-bill-wrapper[data-spm='a-tb'][data-spm-stop='init']
 0.0.0.0	sohu.com##A[href='javascript:void(0);']
 0.0.0.0	sohu.com##DIV[id
+0.0.0.0	sohu.com##IFRAME[width='325'][frameborder='0']
 0.0.0.0	sohu.com##[data-spm
 0.0.0.0	sohu.com##[data-spm-content='ad']
 0.0.0.0	sohu.irs01.com
