@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27593
-! Version: 2025-12-15 02:17:38（北京时间）
+! Total count: 27594
+! Version: 2025-12-15 14:22:31（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -337,6 +337,7 @@
 .vip/facaishang.js
 .vip/facaishen*.js$~third-party
 .vip/happyxia.js
+.vip/shenshang.js
 .xyz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net|xiakexsw.com
 .xyz/$domain=pan.huang1111.cn
 .xyz/*0*0*==$third-party

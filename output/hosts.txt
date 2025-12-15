@@ -1,7 +1,7 @@
-# Version: 2025-12-15 04:38:59
+# Version: 2025-12-15 16:52:06
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27435
+# Total domains: 27436
 
 0.0.0.0	!
 0.0.0.0	!
@@ -341,6 +341,7 @@
 0.0.0.0	.vip/facaishang.js
 0.0.0.0	.vip/facaishen*.js$~third-party
 0.0.0.0	.vip/happyxia.js
+0.0.0.0	.vip/shenshang.js
 0.0.0.0	.xyz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net|xiakexsw.com
 0.0.0.0	.xyz/$domain=pan.huang1111.cn
 0.0.0.0	.xyz/*0*0*==$third-party
