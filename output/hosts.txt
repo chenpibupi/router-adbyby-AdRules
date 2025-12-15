@@ -1,7 +1,7 @@
-# Version: 2025-12-15 16:52:06
+# Version: 2025-12-16 04:43:04
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27436
+# Total domains: 27437
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12887,6 +12887,7 @@
 0.0.0.0	baidu.com##.ec-result-inner
 0.0.0.0	baidu.com##.ec_ad_results
 0.0.0.0	baidu.com##.ec_wise_ad
+0.0.0.0	baidu.com##.ec_wise_ad
 0.0.0.0	baidu.com##.page-head-queryarea
 0.0.0.0	baidu.com##.rel-exp-feed-ad-item
 0.0.0.0	baidu.com##.se-recommend-word-list,#se-recommend-word-list-container
@@ -23098,7 +23099,6 @@
 0.0.0.0	safe-aisle.jointreport-switch.com
 0.0.0.0	safe.tsgpay.cn
 0.0.0.0	safebrowsing.apple
-0.0.0.0	safebrowsing.googleapis.com
 0.0.0.0	safebrowsing.urlsec.gg.com
 0.0.0.0	saferwet.com
 0.0.0.0	sahqoo.com
@@ -24137,6 +24137,7 @@
 0.0.0.0	sydz.tw
 0.0.0.0	sygmtz.com
 0.0.0.0	syh-imp.cdnjtzy.com
+0.0.0.0	syh.zybang.com
 0.0.0.0	syilm.net
 0.0.0.0	sykty.com
 0.0.0.0	symaj.cn

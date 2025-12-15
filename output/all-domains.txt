@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27594
-! Version: 2025-12-15 14:22:31（北京时间）
+! Total count: 27595
+! Version: 2025-12-16 02:20:20（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -12882,6 +12882,7 @@ baidu.com##.ec-ad
 baidu.com##.ec-result-inner
 baidu.com##.ec_ad_results
 baidu.com##.ec_wise_ad
+baidu.com##.ec_wise_ad *
 baidu.com##.page-head-queryarea
 baidu.com##.rel-exp-feed-ad-item
 baidu.com##.se-recommend-word-list,#se-recommend-word-list-container
@@ -23093,7 +23094,6 @@ sadsaxd.nlkmp.com
 safe-aisle.jointreport-switch.com
 safe.tsgpay.cn
 safebrowsing.apple
-safebrowsing.googleapis.com
 safebrowsing.urlsec.gg.com
 saferwet.com
 sahqoo.com
@@ -24132,6 +24132,7 @@ sycrgc.xyz
 sydz.tw
 sygmtz.com
 syh-imp.cdnjtzy.com
+syh.zybang.com
 syilm.net
 sykty.com
 symaj.cn
