@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27595
-! Version: 2025-12-16 14:21:04（北京时间）
+! Total count: 27599
+! Version: 2025-12-17 02:20:07（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -334,6 +334,7 @@
 .top/*q=*form=*&*url=http*$third-party
 .top/?token=$third-party
 .top/gluinfo.php?s=$third-party
+.top:*/js.php?z=*=$third-party
 .vip/facaishang.js
 .vip/facaishen*.js$~third-party
 .vip/happyxia.js
@@ -7711,6 +7712,7 @@
 66san.com
 670t5x.cn
 6711.com
+6726lmym.top
 6728812.com
 678tl.com
 67it.com
@@ -10947,6 +10949,7 @@ ad-survey.com
 ad-test6.sm.cn
 ad-trace.lenovomm.com
 ad-union-e.ssread.cn
+ad.*.360.cn
 ad.10010.com
 ad.1111cpc.com
 ad.12306.cn
@@ -16185,6 +16188,7 @@ fhvbhx.xyz
 fi11aa198.com
 fi11av37.com
 fi11av39.com
+fifzsym.top
 fiktvlnc.icu
 file-yuedu.iqiyi.com
 file.7youxi.com

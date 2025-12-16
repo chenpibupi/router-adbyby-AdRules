@@ -1,7 +1,7 @@
-# Version: 2025-12-16 16:50:54
+# Version: 2025-12-17 04:42:26
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27437
+# Total domains: 27441
 
 0.0.0.0	!
 0.0.0.0	!
@@ -338,6 +338,7 @@
 0.0.0.0	.top/*q=*form=*&*url=http*$third-party
 0.0.0.0	.top/?token=$third-party
 0.0.0.0	.top/gluinfo.php?s=$third-party
+0.0.0.0	.top:*/js.php?z=*=$third-party
 0.0.0.0	.vip/facaishang.js
 0.0.0.0	.vip/facaishen*.js$~third-party
 0.0.0.0	.vip/happyxia.js
@@ -7715,6 +7716,7 @@
 0.0.0.0	66san.com
 0.0.0.0	670t5x.cn
 0.0.0.0	6711.com
+0.0.0.0	6726lmym.top
 0.0.0.0	6728812.com
 0.0.0.0	678tl.com
 0.0.0.0	67it.com
@@ -10951,6 +10953,7 @@
 0.0.0.0	ad-test6.sm.cn
 0.0.0.0	ad-trace.lenovomm.com
 0.0.0.0	ad-union-e.ssread.cn
+0.0.0.0	ad.*.360.cn
 0.0.0.0	ad.10010.com
 0.0.0.0	ad.1111cpc.com
 0.0.0.0	ad.12306.cn
@@ -16189,6 +16192,7 @@
 0.0.0.0	fi11aa198.com
 0.0.0.0	fi11av37.com
 0.0.0.0	fi11av39.com
+0.0.0.0	fifzsym.top
 0.0.0.0	fiktvlnc.icu
 0.0.0.0	file-yuedu.iqiyi.com
 0.0.0.0	file.7youxi.com
