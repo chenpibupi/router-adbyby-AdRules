@@ -1,7 +1,7 @@
-# Version: 2025-12-18 16:49:13
+# Version: 2025-12-19 04:39:05
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27441
+# Total domains: 27439
 
 0.0.0.0	!
 0.0.0.0	!
@@ -7059,8 +7059,6 @@
 0.0.0.0	13.226.198.225
 0.0.0.0	13.226.254.58
 0.0.0.0	13.35.0.128
-0.0.0.0	13.39.63.107
-0.0.0.0	13.39.75.239
 0.0.0.0	13023.url.7wkw.com
 0.0.0.0	1338999.com
 0.0.0.0	1372.w13726954.com
