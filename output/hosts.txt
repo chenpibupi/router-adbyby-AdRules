@@ -1,7 +1,7 @@
-# Version: 2025-12-19 16:48:52
+# Version: 2025-12-20 04:41:06
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27439
+# Total domains: 27444
 
 0.0.0.0	!
 0.0.0.0	!
@@ -6907,6 +6907,7 @@
 0.0.0.0	087tqb.cn
 0.0.0.0	08de583.p0nkhy03m.top
 0.0.0.0	093yuht.com
+0.0.0.0	094kk.com
 0.0.0.0	096iokj.com
 0.0.0.0	09_19.supfree.net
 0.0.0.0	09jsufg.com
@@ -16127,6 +16128,7 @@
 0.0.0.0	fe2-au.imrworldwide.com
 0.0.0.0	fe3-au.imrworldwide.com
 0.0.0.0	feanalysisprod.xinfei.cn
+0.0.0.0	fedoq.com
 0.0.0.0	feed-image.baidu.com
 0.0.0.0	feed.baidu.com
 0.0.0.0	feed.theta.sogou.com
@@ -18416,6 +18418,7 @@
 0.0.0.0	jmhongyan.com##ins[class],.container
 0.0.0.0	jmine.cn
 0.0.0.0	jmonitor.jiuzhilan.com
+0.0.0.0	jmosl.com
 0.0.0.0	jmr.nnxiant.cn
 0.0.0.0	jmsyzj.com
 0.0.0.0	jmxlaser.com
@@ -21118,6 +21121,7 @@
 0.0.0.0	nryiou.cn
 0.0.0.0	nryqr.cn
 0.0.0.0	ns01.fyi
+0.0.0.0	nsb42.com
 0.0.0.0	nsclick.baidu.com
 0.0.0.0	nsclickvideo.baidu.com
 0.0.0.0	nshvhfw.cn
@@ -26852,6 +26856,7 @@
 0.0.0.0	ynxjf.com
 0.0.0.0	yoda.kwd.inkuai.com
 0.0.0.0	yofprpv.cn
+0.0.0.0	yohle.com
 0.0.0.0	yongkang6.com
 0.0.0.0	yongv.com
 0.0.0.0	yonsandileer.com
