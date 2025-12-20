@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27603
-! Version: 2025-12-20 14:19:30（北京时间）
+! Total count: 27605
+! Version: 2025-12-21 02:16:25（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -8043,6 +8043,7 @@
 @@||*.a.yximgs.com
 @@||*.akamai-cdn-content.com
 @@||*.alipay.com
+@@||*.allawntech.com
 @@||*.anjuke.com
 @@||*.anjuke.com$important
 @@||*.bblmw.cn
@@ -9973,6 +9974,7 @@
 @@||space.bilibili.com
 @@||spaceship-cdn.com
 @@||spclient.wg.spotify.com
+@@||spcsz.cdn.bcebos.com
 @@||speech.platform.bing.com
 @@||speed.live.360.cn
 @@||sports.163.com
