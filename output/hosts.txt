@@ -1,7 +1,7 @@
-# Version: 2025-12-20 04:41:06
+# Version: 2025-12-20 16:43:58
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27444
+# Total domains: 27445
 
 0.0.0.0	!
 0.0.0.0	!
@@ -26295,6 +26295,7 @@
 0.0.0.0	xfzb2.cc
 0.0.0.0	xfztgxt.com
 0.0.0.0	xgcsr.com
+0.0.0.0	xggdrks.icu
 0.0.0.0	xgmc6lu8fs.me
 0.0.0.0	xgnsvx.stwqhfi.cn
 0.0.0.0	xgzdys.com
