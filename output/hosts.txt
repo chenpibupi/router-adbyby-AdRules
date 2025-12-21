@@ -1,46 +1,8 @@
-# Version: 2025-12-21 16:44:36
+# Version: 2025-12-22 04:39:22
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27489
+# Total domains: 27449
 
-0.0.0.0	Please
-0.0.0.0	in
-0.0.0.0	<a
-0.0.0.0	<a
-0.0.0.0	<a
-0.0.0.0	background-color:
-0.0.0.0	color:
-0.0.0.0	color:
-0.0.0.0	font-family:
-0.0.0.0	font-size:
-0.0.0.0	font-weight:
-0.0.0.0	line-height:
-0.0.0.0	margin:
-0.0.0.0	#s
-0.0.0.0	#s
-0.0.0.0	.c
-0.0.0.0	</div>
-0.0.0.0	</p>
-0.0.0.0	<div
-0.0.0.0	<h1>Access
-0.0.0.0	<p>You
-0.0.0.0	a
-0.0.0.0	a:hover
-0.0.0.0	body
-0.0.0.0	h1
-0.0.0.0	p
-0.0.0.0	}
-0.0.0.0	</div>
-0.0.0.0	</style>
-0.0.0.0	<div
-0.0.0.0	<meta
-0.0.0.0	<meta
-0.0.0.0	<style
-0.0.0.0	<title>Rate
-0.0.0.0	</body>
-0.0.0.0	</head>
-0.0.0.0	<body>
-0.0.0.0	<head>
 0.0.0.0	!
 0.0.0.0	!
 0.0.0.0	!
@@ -8069,8 +8031,6 @@
 0.0.0.0	:8008/*/*?is_not=
 0.0.0.0	:8891/v*$third-party
 0.0.0.0	::1
-0.0.0.0	</html>
-0.0.0.0	<html>
 0.0.0.0	?adspot_
 0.0.0.0	?local_ga_js=
 0.0.0.0	@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
