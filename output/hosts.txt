@@ -1,7 +1,7 @@
-# Version: 2025-12-23 16:49:16
+# Version: 2025-12-24 04:40:30
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27449
+# Total domains: 27451
 
 0.0.0.0	!
 0.0.0.0	!
@@ -20304,6 +20304,7 @@
 0.0.0.0	mediapro.pro.cn
 0.0.0.0	mediav.com
 0.0.0.0	medium.com##.m,
+0.0.0.0	medproad.com
 0.0.0.0	medrx.telstra.com.au
 0.0.0.0	meethanshi.com
 0.0.0.0	meetrics.com
@@ -24215,6 +24216,7 @@
 0.0.0.0	szyr474.com
 0.0.0.0	t*-m.dewu.net
 0.0.0.0	t-ads.xiaohongshu.com
+0.0.0.0	t-adx.52qumao.com
 0.0.0.0	t-dsp.pinduoduo.com
 0.0.0.0	t-e.flyme.cn
 0.0.0.0	t-flow.flyme.cn

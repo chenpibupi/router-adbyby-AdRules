@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27607
-! Version: 2025-12-23 14:27:29（北京时间）
+! Total count: 27609
+! Version: 2025-12-24 02:19:38（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -20299,6 +20299,7 @@ mediaplex.com
 mediapro.pro.cn
 mediav.com
 medium.com##.m, .abb, .add, .ade
+medproad.com
 medrx.telstra.com.au
 meethanshi.com
 meetrics.com
@@ -24210,6 +24211,7 @@ szxpsg.com
 szyr474.com
 t*-m.dewu.net
 t-ads.xiaohongshu.com
+t-adx.52qumao.com
 t-dsp.pinduoduo.com
 t-e.flyme.cn
 t-flow.flyme.cn
