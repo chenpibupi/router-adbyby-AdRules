@@ -1,7 +1,7 @@
-# Version: 2025-12-26 16:46:58
+# Version: 2025-12-27 04:39:43
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27451
+# Total domains: 27516
 
 0.0.0.0	!
 0.0.0.0	!
@@ -57,6 +57,7 @@
 0.0.0.0	*.8vx3zks.xyz
 0.0.0.0	*.9tjoj6.com
 0.0.0.0	*.a48962121.top
+0.0.0.0	*.acdnrvh.com
 0.0.0.0	*.ads.heytapmobi.com
 0.0.0.0	*.ads.huawei.com
 0.0.0.0	*.ads.huawei.com.au
@@ -117,10 +118,13 @@
 0.0.0.0	*.jjoiw4.com
 0.0.0.0	*.jjzemoc3ca.top
 0.0.0.0	*.jqnljze.xyz
+0.0.0.0	*.jtkkkxy.com
 0.0.0.0	*.juicyads.me
 0.0.0.0	*.jvere.xyz
 0.0.0.0	*.jwcnmta.top
+0.0.0.0	*.jyzkhdq.com
 0.0.0.0	*.kbddftp.cn
+0.0.0.0	*.khmhvlw.com
 0.0.0.0	*.kweisid.top
 0.0.0.0	*.kwilmid.top
 0.0.0.0	*.kxayxw.cn
@@ -152,6 +156,7 @@
 0.0.0.0	*.p2p.huya.com
 0.0.0.0	*.p3q0tt.com
 0.0.0.0	*.phire.cn
+0.0.0.0	*.pioeaig.com
 0.0.0.0	*.pl1n06.com
 0.0.0.0	*.pnwix.cn
 0.0.0.0	*.poeme.cn
@@ -8044,12 +8049,12 @@
 0.0.0.0	@@||*-cf.xvideos-cdn.com
 0.0.0.0	@@||*-open-sign.byteimg.com
 0.0.0.0	@@||*-open.byteimg.com
+0.0.0.0	@@||*.*.szbdyd.com
 0.0.0.0	@@||*.a.yximgs.com
 0.0.0.0	@@||*.akamai-cdn-content.com
 0.0.0.0	@@||*.alipay.com
 0.0.0.0	@@||*.allawntech.com
 0.0.0.0	@@||*.anjuke.com
-0.0.0.0	@@||*.anjuke.com$important
 0.0.0.0	@@||*.bblmw.cn
 0.0.0.0	@@||*.cdninstagram.com
 0.0.0.0	@@||*.dlied1.cdntips.net
@@ -8060,6 +8065,9 @@
 0.0.0.0	@@||*.lol.qq.com
 0.0.0.0	@@||*.market.mi-img.com
 0.0.0.0	@@||*.market.xiaomi.com
+0.0.0.0	@@||*.mcdn.bilivideo.cn
+0.0.0.0	@@||*.mcdn.bilivideo.com
+0.0.0.0	@@||*.mcdn.bilivideo.net
 0.0.0.0	@@||*.mi-img.com
 0.0.0.0	@@||*.micloud.xiaomi.net
 0.0.0.0	@@||*.music.126.net
@@ -8098,7 +8106,6 @@
 0.0.0.0	@@||7x24s.com
 0.0.0.0	@@||91haoka.cn
 0.0.0.0	@@||96956.com.cn
-0.0.0.0	@@||Linux.do
 0.0.0.0	@@||a.9game.cn
 0.0.0.0	@@||a.game.163.com
 0.0.0.0	@@||a.video.qq.com
@@ -8121,10 +8128,12 @@
 0.0.0.0	@@||account.xfinfr.com
 0.0.0.0	@@||accountapi.dianping.com
 0.0.0.0	@@||accscdn.m.taobao.com
+0.0.0.0	@@||accscdn4public.m.taobao.com
 0.0.0.0	@@||acg02.cc
 0.0.0.0	@@||acs.m.taobao.com
 0.0.0.0	@@||acs.youku.com
 0.0.0.0	@@||acs4baichuan.m.taobao.com
+0.0.0.0	@@||acs4public.m.taobao.com
 0.0.0.0	@@||acstatic-dun.126.net
 0.0.0.0	@@||act-webstatic.hoyoverse.com
 0.0.0.0	@@||act.hoyoverse.com
@@ -8167,6 +8176,8 @@
 0.0.0.0	@@||ali2.a.yximgs.com
 0.0.0.0	@@||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	@@||alissl.ucdl.pp.uc.cn
+0.0.0.0	@@||alist.wavee.cn
+0.0.0.0	@@||alistgo.com
 0.0.0.0	@@||aliyuncs.com/*.png
 0.0.0.0	@@||alps.51y5.net
 0.0.0.0	@@||als.baidu.com
@@ -8217,6 +8228,7 @@
 0.0.0.0	@@||api.developer.xiaomi.com
 0.0.0.0	@@||api.device.xiaomi.net
 0.0.0.0	@@||api.ds.163.com
+0.0.0.0	@@||api.extscreen.com
 0.0.0.0	@@||api.flash.cn
 0.0.0.0	@@||api.huangye.miui.com
 0.0.0.0	@@||api.io.mi.com
@@ -8299,12 +8311,14 @@
 0.0.0.0	@@||aps.amap.com
 0.0.0.0	@@||aq.qq.com
 0.0.0.0	@@||archive.biliimg.com
+0.0.0.0	@@||arenascan.com
 0.0.0.0	@@||article.zlink.toutiao.com
 0.0.0.0	@@||as.weixin.qq.com
 0.0.0.0	@@||ascdn.baidu.com
 0.0.0.0	@@||assets-www.xbox.com
 0.0.0.0	@@||assets.cnblogs.com
 0.0.0.0	@@||assets.giocdn.com
+0.0.0.0	@@||assets.liuyun.io
 0.0.0.0	@@||assets.msn.cn
 0.0.0.0	@@||assets.msn.com
 0.0.0.0	@@||assets.oneweb.mercedes-benz.com
@@ -8322,6 +8336,7 @@
 0.0.0.0	@@||avatar.bdstatic.com
 0.0.0.0	@@||avatar.coolapk.com
 0.0.0.0	@@||avatar.csdnimg.cn
+0.0.0.0	@@||avatar.erome.com
 0.0.0.0	@@||avc.tapimg.com
 0.0.0.0	@@||avgle.com
 0.0.0.0	@@||award.xmcdn.com
@@ -8329,6 +8344,8 @@
 0.0.0.0	@@||awp-assets.meituan.net
 0.0.0.0	@@||b.163.com
 0.0.0.0	@@||b.bdstatic.com
+0.0.0.0	@@||b3log.org
+0.0.0.0	@@||b3logfile.com
 0.0.0.0	@@||bad.news
 0.0.0.0	@@||baijiahao.baidu.com
 0.0.0.0	@@||baike.baidu.com
@@ -8337,10 +8354,12 @@
 0.0.0.0	@@||baixing.com
 0.0.0.0	@@||bbs-static.miyoushe.com
 0.0.0.0	@@||bbs.mobileapi.hupu.com
+0.0.0.0	@@||bbs.tampermonkey.net.cn
 0.0.0.0	@@||bce.baidu.com
 0.0.0.0	@@||bcelive.com
 0.0.0.0	@@||bdsmtest.org
 0.0.0.0	@@||bdsmtv.cc
+0.0.0.0	@@||beacon-api.aliyuncs.com
 0.0.0.0	@@||beian.miit.gov.cn
 0.0.0.0	@@||bgp.video-upload-v*.lf.bytelb.net
 0.0.0.0	@@||bidobido.xyz
@@ -8424,6 +8443,7 @@
 0.0.0.0	@@||cdn.iocdn.cc
 0.0.0.0	@@||cdn.jsdelivr.net
 0.0.0.0	@@||cdn.pinduoduo.com
+0.0.0.0	@@||cdn.ping0.cc
 0.0.0.0	@@||cdn.plyr.io
 0.0.0.0	@@||cdn.staticfile.org
 0.0.0.0	@@||cdn.tiantiantiaosheng.com
@@ -8525,6 +8545,7 @@
 0.0.0.0	@@||cloudcontrol.live.360.cn
 0.0.0.0	@@||cloudflare-dns.com
 0.0.0.0	@@||cloudflare.com/cdn-cgi/trace$domain=net.ljxnet.cn
+0.0.0.0	@@||cloudpush.aliyuncs.com
 0.0.0.0	@@||cm-10-*.getui.com
 0.0.0.0	@@||cm-h.phncdn.com
 0.0.0.0	@@||cm.bilibili.com
@@ -8532,6 +8553,8 @@
 0.0.0.0	@@||cms-bucket.ws.126.net
 0.0.0.0	@@||cmshow.qq.com
 0.0.0.0	@@||cmts.iqiyi.com
+0.0.0.0	@@||cn-*.bilivideo.cn
+0.0.0.0	@@||cn-*.bilivideo.com
 0.0.0.0	@@||cn-cd-dx-2.natfrp.cloud
 0.0.0.0	@@||cn.app.chat.xiaomi.net
 0.0.0.0	@@||cn.bing.com
@@ -8544,6 +8567,8 @@
 0.0.0.0	@@||cnlogin.cainiao.com
 0.0.0.0	@@||cnnic.net.cn
 0.0.0.0	@@||collect.hupu.com
+0.0.0.0	@@||comate-ide.cdn.bcebos.com
+0.0.0.0	@@||comate.baidu.com
 0.0.0.0	@@||commimg.pddpic.com
 0.0.0.0	@@||common.jbzj.com
 0.0.0.0	@@||community.akamai.steamstatic.com
@@ -8624,6 +8649,7 @@
 0.0.0.0	@@||dev.miuiflash.com
 0.0.0.0	@@||develope-oss.lanzoug.com
 0.0.0.0	@@||developer.apple.com$generichide
+0.0.0.0	@@||developer.extscreen.com
 0.0.0.0	@@||devuploads.com
 0.0.0.0	@@||dfcfw.com
 0.0.0.0	@@||dftoutiao.com
@@ -8643,6 +8669,7 @@
 0.0.0.0	@@||dl.360safe.com
 0.0.0.0	@@||dl.delivery.mp.microsoft.com
 0.0.0.0	@@||dl.hdslb.com
+0.0.0.0	@@||dl.listary.net
 0.0.0.0	@@||dl.reg.163.com
 0.0.0.0	@@||dldir1.qq.com
 0.0.0.0	@@||dldir1v6.qq.com
@@ -8655,10 +8682,13 @@
 0.0.0.0	@@||dns-family.adguard.com
 0.0.0.0	@@||dns.adguard.com
 0.0.0.0	@@||dns.icoa.cn
+0.0.0.0	@@||doc.oplist.org
+0.0.0.0	@@||doc.oplist.org.cn
 0.0.0.0	@@||dockerstatic.com
 0.0.0.0	@@||docrdsfx76ssb.cloudfront.net
 0.0.0.0	@@||docs.doudou.fun
 0.0.0.0	@@||docs.idqqimg.com
+0.0.0.0	@@||docs.scriptcat.org
 0.0.0.0	@@||domains-ws.revved.com
 0.0.0.0	@@||dorado.xiaojukeji.com
 0.0.0.0	@@||doris.yidianzixun.com
@@ -8736,6 +8766,7 @@
 0.0.0.0	@@||ei.phncdn.com
 0.0.0.0	@@||em-h.phncdn.com
 0.0.0.0	@@||em.phncdn.com
+0.0.0.0	@@||emas-link-service.aliyuncs.com
 0.0.0.0	@@||embedwish.com
 0.0.0.0	@@||emoji.bj.bcebos.com
 0.0.0.0	@@||emoji.qpic.cn
@@ -9117,6 +9148,7 @@
 0.0.0.0	@@||ipolyfill-origin.bytedance.com
 0.0.0.0	@@||iptn.m3pd.com
 0.0.0.0	@@||ipv4dns.com
+0.0.0.0	@@||ipv6.ping0.cc
 0.0.0.0	@@||ipw.cn
 0.0.0.0	@@||ipxx.pro
 0.0.0.0	@@||is-hl.snssdk.com
@@ -9145,6 +9177,7 @@
 0.0.0.0	@@||jikipedia.com
 0.0.0.0	@@||jimdo.com
 0.0.0.0	@@||jingfen.jd.com
+0.0.0.0	@@||jmacs.cn-zhangjiakou.aliyuncs.com
 0.0.0.0	@@||jnn-pa.googleapis.com
 0.0.0.0	@@||jobs.bytedance.com
 0.0.0.0	@@||jomodns.com
@@ -9191,6 +9224,8 @@
 0.0.0.0	@@||laowang.vip
 0.0.0.0	@@||laowangappb93ibiu.cihiu487giuew87lk.xyz
 0.0.0.0	@@||lc-cn-n1-shared.com
+0.0.0.0	@@||ld246.com
+0.0.0.0	@@||learn.scriptcat.org
 0.0.0.0	@@||leihuo.163.com
 0.0.0.0	@@||lens.zhihu.com
 0.0.0.0	@@||lequ-qfe.iqiyi.com
@@ -9249,6 +9284,8 @@
 0.0.0.0	@@||line3-h5-pc-api.biligame.com
 0.0.0.0	@@||line3-statics-h5-mobile-api.biligame.net
 0.0.0.0	@@||link.zhihu.com
+0.0.0.0	@@||linux.do
+0.0.0.0	@@||liuyun.io
 0.0.0.0	@@||live*.static.yximgs.com
 0.0.0.0	@@||live-trace.bilibili.com
 0.0.0.0	@@||live.douyin.com
@@ -9484,6 +9521,7 @@
 0.0.0.0	@@||msedown.360safe.com
 0.0.0.0	@@||msg.douyu.com
 0.0.0.0	@@||msg.video.qiyi.com
+0.0.0.0	@@||msgacs.cn-zhangjiakou.aliyuncs.com
 0.0.0.0	@@||msn.yidianzixun.com
 0.0.0.0	@@||mss0.bdstatic.com
 0.0.0.0	@@||mssdk3-normal-lf.zijieapi.com
@@ -9535,6 +9573,7 @@
 0.0.0.0	@@||north-plus.net
 0.0.0.0	@@||novelfm.changdunovel.com
 0.0.0.0	@@||novelfm.zlink.toutiao.com
+0.0.0.0	@@||now.bdstatic.com
 0.0.0.0	@@||npm.cdn-go.cn
 0.0.0.0	@@||npm.elemecdn.com
 0.0.0.0	@@||nsclick.baidu.com
@@ -9561,6 +9600,7 @@
 0.0.0.0	@@||orbit.jd.com
 0.0.0.0	@@||osp.meituan.net
 0.0.0.0	@@||oss-asq-static.11222.cn
+0.0.0.0	@@||oss.b3logfile.com
 0.0.0.0	@@||ossapi.baidu.com
 0.0.0.0	@@||ossp.voicecloud.cn
 0.0.0.0	@@||otheve.beacon.qq.com
@@ -9765,6 +9805,7 @@
 0.0.0.0	@@||prod-chat-kimi-tos.moonshot.cn
 0.0.0.0	@@||profile-avatar.csdnimg.cn
 0.0.0.0	@@||profile.csdnimg.cn
+0.0.0.0	@@||proxy-tf-all-ws.bilivideo.com
 0.0.0.0	@@||pss.bdstatic.com
 0.0.0.0	@@||psstatic.cdn.bcebos.com
 0.0.0.0	@@||ptlogin.yuewen.com
@@ -9840,6 +9881,7 @@
 0.0.0.0	@@||register.xmpush.global.xiaomi.com
 0.0.0.0	@@||register.xmpush.xiaomi.com
 0.0.0.0	@@||registry.npmmirror.com
+0.0.0.0	@@||release.liuyun.io
 0.0.0.0	@@||report.passport.360.cn
 0.0.0.0	@@||report.taptapdada.com
 0.0.0.0	@@||res-r.qingjiaota.com
@@ -9848,6 +9890,8 @@
 0.0.0.0	@@||res.imtt.qq.com
 0.0.0.0	@@||res.mall.10010.cn
 0.0.0.0	@@||res.mi.baidu.com
+0.0.0.0	@@||res.oplist.org
+0.0.0.0	@@||res.oplist.org.cn
 0.0.0.0	@@||res.qiyukf.net
 0.0.0.0	@@||res.vmallres.com
 0.0.0.0	@@||resfile.lixincsb.com
@@ -9862,6 +9906,7 @@
 0.0.0.0	@@||rs.xmeye.net
 0.0.0.0	@@||ru.register.xmpush.global.xiaomi.com
 0.0.0.0	@@||rule.tencent.com
+0.0.0.0	@@||s*.erome.com
 0.0.0.0	@@||s*.ssl.qhimg.com
 0.0.0.0	@@||s*.ssl.qhmsg.com
 0.0.0.0	@@||s*.ssl.qhres2.com
@@ -9899,6 +9944,7 @@
 0.0.0.0	@@||sbfast.com
 0.0.0.0	@@||sbfull.com
 0.0.0.0	@@||scan.call.f.360.cn
+0.0.0.0	@@||scriptcat.org
 0.0.0.0	@@||scs.openspeech.cn
 0.0.0.0	@@||sd.360.cn
 0.0.0.0	@@||sdk-api.beizi.biz
@@ -9947,6 +9993,7 @@
 0.0.0.0	@@||sina.com.cn
 0.0.0.0	@@||site.tiantiantiaosheng.com
 0.0.0.0	@@||siwazywcdn2.com
+0.0.0.0	@@||siyuannote.com
 0.0.0.0	@@||sjh.baidu.com
 0.0.0.0	@@||sjws.ssl.qihucdn.com
 0.0.0.0	@@||sl.hpplay.cn
@@ -10225,6 +10272,9 @@
 0.0.0.0	@@||upload.x.com
 0.0.0.0	@@||uploadrar.com
 0.0.0.0	@@||uploadstatic.mihoyo.com
+0.0.0.0	@@||upos-*-estg*.bilivideo.com
+0.0.0.0	@@||upos-*-mirror*.akamaized.net
+0.0.0.0	@@||upos-*-mirror*.bilivideo.com
 0.0.0.0	@@||upos-sz-*.bilivideo.com
 0.0.0.0	@@||uri6.com
 0.0.0.0	@@||url.163.com
@@ -10235,6 +10285,7 @@
 0.0.0.0	@@||v*-dc-ad.ixigua.com
 0.0.0.0	@@||v*-fq-tts.fqnovelvod.com
 0.0.0.0	@@||v*.douyinvod.com
+0.0.0.0	@@||v*.erome.com
 0.0.0.0	@@||v*.kwaicdn.com
 0.0.0.0	@@||v.douyin.com
 0.0.0.0	@@||v.gdt.qq.com
@@ -10334,12 +10385,14 @@
 0.0.0.0	@@||webcast.amemv.com
 0.0.0.0	@@||webfiles.gamebanana.com
 0.0.0.0	@@||webstatic.hoyoverse.com
+0.0.0.0	@@||webtoonscan.com
 0.0.0.0	@@||webtor.io
 0.0.0.0	@@||webzjcaptcha.reg.163.com
 0.0.0.0	@@||weibo.com
 0.0.0.0	@@||weidian.com
 0.0.0.0	@@||weishi.360.cn
 0.0.0.0	@@||weixin.qq.com
+0.0.0.0	@@||wg.wavee.cn
 0.0.0.0	@@||wgo.mmstat.com
 0.0.0.0	@@||white-plus.net
 0.0.0.0	@@||whois.cloud.tencent.com
@@ -10423,6 +10476,8 @@
 0.0.0.0	@@||www.enigmaprotector.com
 0.0.0.0	@@||www.epicgames.com
 0.0.0.0	@@||www.ero-labs.com
+0.0.0.0	@@||www.erome.com
+0.0.0.0	@@||www.extscreen.com
 0.0.0.0	@@||www.ferrari.com
 0.0.0.0	@@||www.ghproxy.cn
 0.0.0.0	@@||www.gitbook.com
@@ -10453,6 +10508,8 @@
 0.0.0.0	@@||www.kuaishou.com
 0.0.0.0	@@||www.lamborghini.com
 0.0.0.0	@@||www.lianjia.com
+0.0.0.0	@@||www.listary.com
+0.0.0.0	@@||www.listary.net
 0.0.0.0	@@||www.lsds.cn
 0.0.0.0	@@||www.maimemo.com
 0.0.0.0	@@||www.mairuan.com
@@ -10474,12 +10531,15 @@
 0.0.0.0	@@||www.npmjs.com
 0.0.0.0	@@||www.ntdtv.com
 0.0.0.0	@@||www.nuomiphp.com
+0.0.0.0	@@||www.oplist.org
+0.0.0.0	@@||www.oplist.org.cn
 0.0.0.0	@@||www.oreans.com
 0.0.0.0	@@||www.patreon.com
 0.0.0.0	@@||www.paypal.com
 0.0.0.0	@@||www.paypalobjects.com
 0.0.0.0	@@||www.pconline.com.cn
 0.0.0.0	@@||www.pinduoduo.com
+0.0.0.0	@@||www.ping0.cc
 0.0.0.0	@@||www.porn5f.com
 0.0.0.0	@@||www.pornhub.com
 0.0.0.0	@@||www.pornlulu.com
@@ -10491,6 +10551,7 @@
 0.0.0.0	@@||www.qdmm.com
 0.0.0.0	@@||www.qidian.com
 0.0.0.0	@@||www.recaptcha.net
+0.0.0.0	@@||www.siyuan-note.club
 0.0.0.0	@@||www.so.com
 0.0.0.0	@@||www.spaceship.com
 0.0.0.0	@@||www.sygjx.com
@@ -10587,6 +10648,7 @@
 0.0.0.0	@@||yunjiasu.com
 0.0.0.0	@@||yybadaccess.3g.qq.com
 0.0.0.0	@@||yys.163.com
+0.0.0.0	@@||yzg.wavee.cn
 0.0.0.0	@@||z.weixin.qq.com
 0.0.0.0	@@||zazhipu.com
 0.0.0.0	@@||zconfig.alibabausercontent.com
@@ -11120,6 +11182,7 @@
 0.0.0.0	ad.rednet.cn
 0.0.0.0	ad.reklamport.com
 0.0.0.0	ad.richmob.cn
+0.0.0.0	ad.scdn.io
 0.0.0.0	ad.search.ch
 0.0.0.0	ad.seeyouyima.com
 0.0.0.0	ad.sensismediasmart.com.au
@@ -14814,6 +14877,7 @@
 0.0.0.0	dbam.dashbida.com
 0.0.0.0	dbbqb.com##.MuiPaper-root
 0.0.0.0	dbhfre.xyz
+0.0.0.0	dbhsgxh.com
 0.0.0.0	dbkdwe1.com
 0.0.0.0	dbmp4.com/js/foot.js
 0.0.0.0	dbncp.com
@@ -14955,6 +15019,7 @@
 0.0.0.0	dfgymtx.icu
 0.0.0.0	dfjd.xyz
 0.0.0.0	dfkd.xyz
+0.0.0.0	dfsj8050.ahyyxpk.com
 0.0.0.0	dfstt5031.ayhnb.cn
 0.0.0.0	dfsvhv88.com
 0.0.0.0	dfx.shhuixiangwuliu.com
