@@ -1,7 +1,7 @@
-# Version: 2026-01-02 16:48:38
+# Version: 2026-01-03 04:40:51
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27516
+# Total domains: 27517
 
 0.0.0.0	!
 0.0.0.0	!
@@ -492,8 +492,6 @@
 0.0.0.0	/xxgg/pf*.js
 0.0.0.0	/yinghuacd/bottom.js
 0.0.0.0	/zijieapi.*/
-0.0.0.0	0.0.0.0
-0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
@@ -8958,6 +8956,7 @@
 0.0.0.0	@@||h5api.m.goofish.com
 0.0.0.0	@@||h5api.m.taobao.com
 0.0.0.0	@@||h5api.m.tmall.com
+0.0.0.0	@@||h5fs.coloros.com
 0.0.0.0	@@||h5offline.zhuanzhuan.com
 0.0.0.0	@@||h5static.cc.163.com
 0.0.0.0	@@||hanime1.me
@@ -10290,6 +10289,7 @@
 0.0.0.0	@@||v.douyin.com
 0.0.0.0	@@||v.gdt.qq.com
 0.0.0.0	@@||v.miguvideo.com
+0.0.0.0	@@||v.smtcdns.com
 0.0.0.0	@@||v.stream.qq.com
 0.0.0.0	@@||v.uc.cn
 0.0.0.0	@@||v1-mllqsv.onewsvod.com
@@ -10308,6 +10308,7 @@
 0.0.0.0	@@||v6-nimg.ws.126.net
 0.0.0.0	@@||v6.pic.upqzfile.com
 0.0.0.0	@@||v9-mllqsv.onewsvod.com
+0.0.0.0	@@||v9-novelapp.fqnovelvod.com
 0.0.0.0	@@||v9-x.toutiaovod.com
 0.0.0.0	@@||vali-g1.cp31.ott.cibntv.net
 0.0.0.0	@@||vali01.cp31.ott.cibntv.net
