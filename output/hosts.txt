@@ -1,7 +1,7 @@
-# Version: 2026-01-03 16:45:45
+# Version: 2026-01-04 04:40:11
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27517
+# Total domains: 27518
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12982,6 +12982,7 @@
 0.0.0.0	baidu.com#@#div[class*="ads"]
 0.0.0.0	baidu.com.sogou.360.cn.qq.com.hunlaife.cn
 0.0.0.0	baidu.com/api/wapui/getrelatedbusiness
+0.0.0.0	baidu.com/baidu.php?url=
 0.0.0.0	baidu.com/newspage/api/getmobads?
 0.0.0.0	baidu.com/rec?*=ad&
 0.0.0.0	baidu.cybcyw.com

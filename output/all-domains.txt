@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27676
-! Version: 2026-01-03 14:19:43（北京时间）
+! Total count: 27677
+! Version: 2026-01-04 02:17:35（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -12977,6 +12977,7 @@ baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar)
 baidu.com#@#div[class*="ads"]
 baidu.com.sogou.360.cn.qq.com.hunlaife.cn
 baidu.com/api/wapui/getrelatedbusiness
+baidu.com/baidu.php?url=
 baidu.com/newspage/api/getmobads?
 baidu.com/rec?*=ad&
 baidu.cybcyw.com
