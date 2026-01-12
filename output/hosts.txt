@@ -1,7 +1,7 @@
-# Version: 2026-01-12 16:53:20
+# Version: 2026-01-13 04:43:14
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27519
+# Total domains: 27518
 
 0.0.0.0	!
 0.0.0.0	!
@@ -10290,7 +10290,6 @@
 0.0.0.0	@@||v.douyin.com
 0.0.0.0	@@||v.gdt.qq.com
 0.0.0.0	@@||v.miguvideo.com
-0.0.0.0	@@||v.smtcdns.com
 0.0.0.0	@@||v.stream.qq.com
 0.0.0.0	@@||v.uc.cn
 0.0.0.0	@@||v1-mllqsv.onewsvod.com
