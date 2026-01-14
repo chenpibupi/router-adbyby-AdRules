@@ -1,4 +1,4 @@
-# Version: 2026-01-14 16:52:09
+# Version: 2026-01-15 04:41:23
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
 # Total domains: 27520
@@ -7,8 +7,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27679
-! Version: 2026-01-14 14:23:45（北京时间）
+! Total count: 27680
+! Version: 2026-01-15 02:21:35（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -6441,7 +6441,6 @@
 0.0.0.0 visitor.omnitagjs.com
 0.0.0.0 vlive.qqvideo.tc.qq.com
 0.0.0.0 vm.aty.sohu.com
-0.0.0.0 vm.gtimg.cn
 0.0.0.0 vmindhls.tc.qq.com
 0.0.0.0 vod-box.bz.mgtv.com
 0.0.0.0 vod-license-b.volccdn.com
@@ -9590,6 +9589,7 @@
 @@||onegoods.nosdn.127.net
 @@||onekey1.cmpassport.com
 @@||open.bytedanceapi.com
+@@||open.douyin.com
 @@||open.oppomobile.com
 @@||open.snssdk.com
 @@||openap-alps.51y5.net

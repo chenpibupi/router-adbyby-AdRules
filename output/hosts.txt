@@ -1,4 +1,4 @@
-# Version: 2026-01-14 16:52:09
+# Version: 2026-01-15 04:41:23
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
 # Total domains: 27520
@@ -493,7 +493,6 @@
 0.0.0.0	/xxgg/pf*.js
 0.0.0.0	/yinghuacd/bottom.js
 0.0.0.0	/zijieapi.*/
-0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0
@@ -9590,6 +9589,7 @@
 0.0.0.0	@@||onegoods.nosdn.127.net
 0.0.0.0	@@||onekey1.cmpassport.com
 0.0.0.0	@@||open.bytedanceapi.com
+0.0.0.0	@@||open.douyin.com
 0.0.0.0	@@||open.oppomobile.com
 0.0.0.0	@@||open.snssdk.com
 0.0.0.0	@@||openap-alps.51y5.net
