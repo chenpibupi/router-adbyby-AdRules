@@ -1,7 +1,7 @@
-# Version: 2026-01-28 16:54:18
+# Version: 2026-01-29 04:53:17
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27526
+# Total domains: 27527
 
 0.0.0.0	!
 0.0.0.0	!
@@ -11594,6 +11594,7 @@
 0.0.0.0	ads.aplus.pptv.com
 0.0.0.0	ads.aplusapi.pptv.com
 0.0.0.0	ads.aralego.com
+0.0.0.0	ads.auctions.yahoo.com
 0.0.0.0	ads.aws.viber.com
 0.0.0.0	ads.bjlxin.cn
 0.0.0.0	ads.bullionyield.com
