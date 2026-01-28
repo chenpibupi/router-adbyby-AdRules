@@ -1,14 +1,14 @@
-# Version: 2026-01-28 04:43:40
+# Version: 2026-01-28 16:54:18
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27524
+# Total domains: 27526
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27684
-! Version: 2026-01-27 20:47:52（北京时间）
+! Total count: 27686
+! Version: 2026-01-28 09:43:19（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -11911,6 +11911,7 @@ adx-os-req.anythinktech.com
 adx-os.anythinktech.com
 adx-saas.advlion.com
 adx-static.ksosoft.com
+adx-strategy-api-cn.statisticslinks.com
 adx-track.domob.cn
 adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
@@ -12653,7 +12654,6 @@ apptentive.com
 apptime.xyz
 appupgrade.vivo.com.cn
 appuu.cn
-appversion.115.com
 appweb.yangqianguan.com
 apsalar.com
 apt.qumi.com
@@ -20710,6 +20710,7 @@ mopnativeadv.037201.com
 mopub.com
 moquanad.com
 moren-1252794300.file.myqcloud.com
+mores.toponad.com
 mos.m.taobao.com
 mosa86.com
 mosangkeji.com
@@ -24382,6 +24383,7 @@ tags.growingio.com
 tags2.adshell.net
 tags4.revdepo.com
 tagtd.cn
+tagtic.cn
 tahltanboutell.com
 tailscale.io
 tailtarget.com
