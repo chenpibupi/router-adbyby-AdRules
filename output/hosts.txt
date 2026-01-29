@@ -1,7 +1,7 @@
-# Version: 2026-01-29 17:03:30
+# Version: 2026-01-30 04:51:04
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27527
+# Total domains: 27528
 
 0.0.0.0	!
 0.0.0.0	!
@@ -12966,6 +12966,7 @@
 0.0.0.0	baidu.com##DIV[data-module='swan-ad-fc-feed']
 0.0.0.0	baidu.com##[class
 0.0.0.0	baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class
+0.0.0.0	baidu.com##[data-log-view*='swan-ad-fc-ad-item']
 0.0.0.0	baidu.com##[data-tpl='adv_wenku_fc']
 0.0.0.0	baidu.com##[data-video-player='true']
 0.0.0.0	baidu.com##a.ball-wrapper__3BTBO.c-blocka
