@@ -1,4 +1,4 @@
-# Version: 2026-01-29 04:53:17
+# Version: 2026-01-29 17:03:30
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
 # Total domains: 27527
@@ -7724,7 +7724,6 @@
 0.0.0.0	6726lmym.top
 0.0.0.0	6728812.com
 0.0.0.0	678tl.com
-0.0.0.0	67it.com
 0.0.0.0	67tool.com##.footer-banner
 0.0.0.0	685wo.com
 0.0.0.0	68665565.com
@@ -11104,7 +11103,6 @@
 0.0.0.0	ad.go.com
 0.0.0.0	ad.greedland.net
 0.0.0.0	ad.gtbrowser.com
-0.0.0.0	ad.guangggao.eee114.com
 0.0.0.0	ad.hefei.cc
 0.0.0.0	ad.hiiir.com
 0.0.0.0	ad.holaq.com
@@ -11264,7 +11262,6 @@
 0.0.0.0	ad1.udn.com
 0.0.0.0	ad1.xiaomi.com
 0.0.0.0	ad1.yangjinyou.com
-0.0.0.0	ad2.ettoday.net
 0.0.0.0	ad2.nend.net
 0.0.0.0	ad2.udn.com
 0.0.0.0	ad2.yam.com
@@ -15154,7 +15151,6 @@
 0.0.0.0	dl.wan.sogoucdn.com
 0.0.0.0	dl.xzqxzs.com
 0.0.0.0	dl.youjia2016.com
-0.0.0.0	dl.zuimeitianqi.com
 0.0.0.0	dl12349.net
 0.0.0.0	dl1sw.baidu.com
 0.0.0.0	dl2.bav.baidu.com
@@ -16741,6 +16737,7 @@
 0.0.0.0	gj500.com
 0.0.0.0	gjapplog.uc.cn
 0.0.0.0	gjapplog.ucweb.com
+0.0.0.0	gjfzpt.cn
 0.0.0.0	gjghy.com
 0.0.0.0	gjh9v.tianshilv.cn
 0.0.0.0	gjipd.xyz
@@ -17589,7 +17586,6 @@
 0.0.0.0	hzhuang.wang
 0.0.0.0	hzhyhm.com
 0.0.0.0	hzrghx.xyz
-0.0.0.0	hzsanjiaomao.com
 0.0.0.0	hzsod71wov.me
 0.0.0.0	hzvcaadn.icu
 0.0.0.0	hzw.com.cn##.xfb_close_icon,#xfb_lbox,.xfb_close_btn
@@ -18093,7 +18089,6 @@
 0.0.0.0	ionksfefe.xyz
 0.0.0.0	ios-dc.51y5.net
 0.0.0.0	ios-informationplatform.wps.cn
-0.0.0.0	ios-pclog.i4.cn
 0.0.0.0	ios.bugly.qq.com
 0.0.0.0	iosipa.b0.upaiyun.com
 0.0.0.0	iosppk.com
@@ -18522,6 +18517,7 @@
 0.0.0.0	jojog.com
 0.0.0.0	jokerlulm.com
 0.0.0.0	jollytestpartying.com
+0.0.0.0	jomodns.cn
 0.0.0.0	jomwihn.cn
 0.0.0.0	jossuer.net
 0.0.0.0	jothvz.xyz
@@ -19110,6 +19106,7 @@
 0.0.0.0	kuanxin.top
 0.0.0.0	kudifish.com
 0.0.0.0	kuguopush.com
+0.0.0.0	kuiniuca.com
 0.0.0.0	kuiv.cn
 0.0.0.0	kukudm.com/mg/show2.js
 0.0.0.0	kukulm.com
@@ -20320,6 +20317,7 @@
 0.0.0.0	mc.muhtbnd.cn
 0.0.0.0	mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com
 0.0.0.0	mcc.inf.miui.com
+0.0.0.0	mcdn.bilivideo.cn
 0.0.0.0	mcdwfed.cn
 0.0.0.0	mcgi.v.qq.com
 0.0.0.0	mclick.simba.taobao.com
@@ -21399,6 +21397,7 @@
 0.0.0.0	onesoft.im
 0.0.0.0	onetad.com
 0.0.0.0	onetag-sys.com
+0.0.0.0	onethingpcs.com
 0.0.0.0	onewhee.com
 0.0.0.0	oneyearonechange.com
 0.0.0.0	onkacspio.com
@@ -21637,6 +21636,7 @@
 0.0.0.0	p26.gejulm*.com
 0.0.0.0	p2cdn.com
 0.0.0.0	p2kfynrr.icu
+0.0.0.0	p2p.huya.com
 0.0.0.0	p2pchunk-table.douyucdn.cn
 0.0.0.0	p2plive-ali.douyucdn.cn
 0.0.0.0	p2pmid.baofeng.com
@@ -24136,9 +24136,11 @@
 0.0.0.0	strip.taobaocdn.com
 0.0.0.0	studylabs.cn
 0.0.0.0	stun.*.kugou.com
+0.0.0.0	stun.douyucdn.cn
 0.0.0.0	stun.hitv.com
 0.0.0.0	stun.kugou.com
 0.0.0.0	stun.syncthing.net
+0.0.0.0	stun1.douyucdn.cn
 0.0.0.0	stunthedge.com
 0.0.0.0	style-browse-openapi.test.gifshow.com
 0.0.0.0	su.8881919.cc
@@ -24771,7 +24773,6 @@
 0.0.0.0	tracelog-debug.yunxish.com
 0.0.0.0	track-east.mobileadtrading.com
 0.0.0.0	track.58.com
-0.0.0.0	track.66mobi.com
 0.0.0.0	track.easeus.com
 0.0.0.0	track.hujiang.com
 0.0.0.0	track.innoads.cn
@@ -25516,7 +25517,6 @@
 0.0.0.0	valf.atm.cp31.ott.cibntv.net
 0.0.0.0	valfatm.cp12.wasu.tv
 0.0.0.0	vali-g1.cp31.ott.cibntv.net
-0.0.0.0	vali-ugc.cp31.ott.cibntv.net
 0.0.0.0	valipl.cp31.ott.cibntv.net
 0.0.0.0	vamaker.com
 0.0.0.0	vancuongthinh.com
