@@ -1,7 +1,7 @@
-# Version: 2026-01-31 16:50:16
+# Version: 2026-02-01 04:45:15
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27528
+# Total domains: 27529
 
 0.0.0.0	!
 0.0.0.0	!
@@ -9152,6 +9152,7 @@
 0.0.0.0	@@||ipv6.ping0.cc
 0.0.0.0	@@||ipw.cn
 0.0.0.0	@@||ipxx.pro
+0.0.0.0	@@||iqiyi.com/static/js/adfe.5aa3302c.js
 0.0.0.0	@@||is-hl.snssdk.com
 0.0.0.0	@@||is.snssdk.com
 0.0.0.0	@@||is1-ssl.mzstatic.com
