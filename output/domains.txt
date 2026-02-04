@@ -1,14 +1,14 @@
-# Version: 2026-02-04 17:04:32
+# Version: 2026-02-05 04:57:06
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27529
+# Total domains: 27531
 
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27689
-! Version: 2026-02-04 09:56:56（北京时间）
+! Total count: 27691
+! Version: 2026-02-04 20:56:55（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -9654,6 +9654,7 @@
 @@||p3-dcd-sign.byteimg.com
 @@||p3-dcd.byteimg.com
 @@||p3-faceu-img-sign.byteimg.com
+@@||p3-flow-download-sign.byteimg.com
 @@||p3-flow-imagex-sign.byteimg.com
 @@||p3-heycan-hgt-sign.byteimg.com
 @@||p3-insurance.byteimg.com
@@ -10293,6 +10294,7 @@
 @@||v.douyin.com
 @@||v.gdt.qq.com
 @@||v.miguvideo.com
+@@||v.smtcdns.com
 @@||v.stream.qq.com
 @@||v.uc.cn
 @@||v1-mllqsv.onewsvod.com

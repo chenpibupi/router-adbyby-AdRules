@@ -1,7 +1,7 @@
-# Version: 2026-02-04 17:04:32
+# Version: 2026-02-05 04:57:06
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27529
+# Total domains: 27531
 
 0.0.0.0	!
 0.0.0.0	!
@@ -9654,6 +9654,7 @@
 0.0.0.0	@@||p3-dcd-sign.byteimg.com
 0.0.0.0	@@||p3-dcd.byteimg.com
 0.0.0.0	@@||p3-faceu-img-sign.byteimg.com
+0.0.0.0	@@||p3-flow-download-sign.byteimg.com
 0.0.0.0	@@||p3-flow-imagex-sign.byteimg.com
 0.0.0.0	@@||p3-heycan-hgt-sign.byteimg.com
 0.0.0.0	@@||p3-insurance.byteimg.com
@@ -10293,6 +10294,7 @@
 0.0.0.0	@@||v.douyin.com
 0.0.0.0	@@||v.gdt.qq.com
 0.0.0.0	@@||v.miguvideo.com
+0.0.0.0	@@||v.smtcdns.com
 0.0.0.0	@@||v.stream.qq.com
 0.0.0.0	@@||v.uc.cn
 0.0.0.0	@@||v1-mllqsv.onewsvod.com
