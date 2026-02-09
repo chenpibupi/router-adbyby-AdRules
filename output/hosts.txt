@@ -1,7 +1,7 @@
-# Version: 2026-02-09 04:48:40
+# Version: 2026-02-09 17:12:52
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27578
+# Total domains: 27606
 
 0.0.0.0	!
 0.0.0.0	!
@@ -8594,6 +8594,26 @@
 0.0.0.0	@@||contentcenter-vali-drcn.dbankcdn.com
 0.0.0.0	@@||coop.voicecloud.cn
 0.0.0.0	@@||core.tantanapp.com
+0.0.0.0	@@||cos.ap-bangkok.myqcloud.com
+0.0.0.0	@@||cos.ap-beijing-1.myqcloud.com
+0.0.0.0	@@||cos.ap-beijing-fsi.myqcloud.com
+0.0.0.0	@@||cos.ap-beijing.myqcloud.com
+0.0.0.0	@@||cos.ap-chengdu.myqcloud.com
+0.0.0.0	@@||cos.ap-chongqing.myqcloud.com
+0.0.0.0	@@||cos.ap-guangzhou.myqcloud.com
+0.0.0.0	@@||cos.ap-hongkong.myqcloud.com
+0.0.0.0	@@||cos.ap-jakarta.myqcloud.com
+0.0.0.0	@@||cos.ap-nanjing.myqcloud.com
+0.0.0.0	@@||cos.ap-seoul.myqcloud.com
+0.0.0.0	@@||cos.ap-shanghai-fsi.myqcloud.com
+0.0.0.0	@@||cos.ap-shanghai.myqcloud.com
+0.0.0.0	@@||cos.ap-shenzhen-fsi.myqcloud.com
+0.0.0.0	@@||cos.ap-singapore.myqcloud.com
+0.0.0.0	@@||cos.ap-tokyo.myqcloud.com
+0.0.0.0	@@||cos.eu-frankfurt.myqcloud.com
+0.0.0.0	@@||cos.na-ashburn.myqcloud.com
+0.0.0.0	@@||cos.na-siliconvalley.myqcloud.com
+0.0.0.0	@@||cos.sa-saopaulo.myqcloud.com
 0.0.0.0	@@||count.mail.163.com
 0.0.0.0	@@||counter-strike.net
 0.0.0.0	@@||cp2-cdn-play.funshion.com
@@ -9976,8 +9996,16 @@
 0.0.0.0	@@||s2.hdslb.com
 0.0.0.0	@@||s2.ssl.qhres2.com
 0.0.0.0	@@||s3-us-east-1.ossfiles.com
+0.0.0.0	@@||s3.ap-southeast-1.qiniucs.com
+0.0.0.0	@@||s3.ap-southeast-2.qiniucs.com
+0.0.0.0	@@||s3.ap-southeast-3.qiniucs.com
+0.0.0.0	@@||s3.cn-east-1.qiniucs.com
+0.0.0.0	@@||s3.cn-east-2.qiniucs.com
+0.0.0.0	@@||s3.cn-north-1.qiniucs.com
+0.0.0.0	@@||s3.cn-south-1.qiniucs.com
 0.0.0.0	@@||s3.meituan.net
 0.0.0.0	@@||s3.pstatp.com
+0.0.0.0	@@||s3.us-north-1.qiniucs.com
 0.0.0.0	@@||s3.voicecloud.cn
 0.0.0.0	@@||s3plus-img.meituan.net
 0.0.0.0	@@||s3plus.meituan.net
