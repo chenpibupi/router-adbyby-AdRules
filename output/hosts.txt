@@ -1,7 +1,7 @@
-# Version: 2026-02-11 17:11:08
+# Version: 2026-02-12 04:59:54
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27606
+# Total domains: 27629
 
 0.0.0.0	!
 0.0.0.0	!
@@ -34,6 +34,7 @@
 0.0.0.0	*.01fwzb.com
 0.0.0.0	*.04kai.org
 0.0.0.0	*.0lzf11.com
+0.0.0.0	*.0n6bkk.com
 0.0.0.0	*.1l036o.com
 0.0.0.0	*.233leyuan.cn
 0.0.0.0	*.233leyuan.com
@@ -71,6 +72,7 @@
 0.0.0.0	*.b5gvpk5.com
 0.0.0.0	*.beizi.biz
 0.0.0.0	*.bg3partner.fun
+0.0.0.0	*.bg4f8d.com
 0.0.0.0	*.bgbjjtd.com
 0.0.0.0	*.bidjora.com
 0.0.0.0	*.bjmantis.net
@@ -81,15 +83,18 @@
 0.0.0.0	*.cknr6y.com
 0.0.0.0	*.cmgadx.com
 0.0.0.0	*.cru0xr.com
+0.0.0.0	*.ctk4xy.com
 0.0.0.0	*.cyfupnq.com
 0.0.0.0	*.diwodiwo.xyz
 0.0.0.0	*.dmcduio.com
 0.0.0.0	*.dox3xs.com
 0.0.0.0	*.dtsmndu.com
+0.0.0.0	*.duzehc.com
 0.0.0.0	*.dvagh.com
 0.0.0.0	*.dw9541.com
 0.0.0.0	*.eavztdi.com
 0.0.0.0	*.ecjkox.com
+0.0.0.0	*.ed1m24.com
 0.0.0.0	*.emsxev.xyz
 0.0.0.0	*.eoxwr.com
 0.0.0.0	*.evqvxuq.com
@@ -97,6 +102,8 @@
 0.0.0.0	*.f1k4eil.xyz
 0.0.0.0	*.f5o640.com
 0.0.0.0	*.fenqile.com
+0.0.0.0	*.ffbrp6.com
+0.0.0.0	*.firqacv.com
 0.0.0.0	*.fiu07051kl.com
 0.0.0.0	*.fohbgjv.com
 0.0.0.0	*.fokm37.cn
@@ -107,6 +114,7 @@
 0.0.0.0	*.gdt.qq.com
 0.0.0.0	*.giqnyl.cn
 0.0.0.0	*.guanaibao.com
+0.0.0.0	*.h6jv1o.com
 0.0.0.0	*.hrdhej.xyz
 0.0.0.0	*.hubcloud.com.cn
 0.0.0.0	*.hychwg.cyou
@@ -141,8 +149,10 @@
 0.0.0.0	*.mvepu.com
 0.0.0.0	*.myug4s.com
 0.0.0.0	*.n8pnux.com
+0.0.0.0	*.nenwarj.com
 0.0.0.0	*.njp878.com
 0.0.0.0	*.npupn.com
+0.0.0.0	*.nq6wh1.com
 0.0.0.0	*.nrb.footprintdns.com
 0.0.0.0	*.nsspfqp.xyz
 0.0.0.0	*.nswsu.com
@@ -198,6 +208,7 @@
 0.0.0.0	*.wknij.com
 0.0.0.0	*.wy2qq.top
 0.0.0.0	*.x586di.com
+0.0.0.0	*.x7jy10.com
 0.0.0.0	*.xiangde.top
 0.0.0.0	*.xpj2443430.cc
 0.0.0.0	*.xqojux.xyz
@@ -207,6 +218,7 @@
 0.0.0.0	*.y80iwf.cyou
 0.0.0.0	*.ydxdg.xyz
 0.0.0.0	*.yinghua-*.cc
+0.0.0.0	*.yyutfzv.com
 0.0.0.0	*.yzbpjz.com
 0.0.0.0	*.yzdx66.com
 0.0.0.0	*.z9ehxz.com
@@ -9999,12 +10011,18 @@
 0.0.0.0	@@||s3.ap-southeast-1.qiniucs.com
 0.0.0.0	@@||s3.ap-southeast-2.qiniucs.com
 0.0.0.0	@@||s3.ap-southeast-3.qiniucs.com
+0.0.0.0	@@||s3.bd.bcebos.com
+0.0.0.0	@@||s3.bj.bcebos.com
 0.0.0.0	@@||s3.cn-east-1.qiniucs.com
 0.0.0.0	@@||s3.cn-east-2.qiniucs.com
 0.0.0.0	@@||s3.cn-north-1.qiniucs.com
 0.0.0.0	@@||s3.cn-south-1.qiniucs.com
+0.0.0.0	@@||s3.fwh.bcebos.com
+0.0.0.0	@@||s3.gz.bcebos.com
+0.0.0.0	@@||s3.hkg.bcebos.com
 0.0.0.0	@@||s3.meituan.net
 0.0.0.0	@@||s3.pstatp.com
+0.0.0.0	@@||s3.su.bcebos.com
 0.0.0.0	@@||s3.us-north-1.qiniucs.com
 0.0.0.0	@@||s3.voicecloud.cn
 0.0.0.0	@@||s3plus-img.meituan.net
@@ -15286,6 +15304,7 @@
 0.0.0.0	dm530p.net##DIV[style$=';
 0.0.0.0	dmacore.kejet.com
 0.0.0.0	dmacore.kejet.net
+0.0.0.0	dmaoaikufn2.com
 0.0.0.0	dmapp.youku.com
 0.0.0.0	dmd.metaservices.microsoft.com
 0.0.0.0	dme.lchzwz.com
@@ -16821,6 +16840,7 @@
 0.0.0.0	gjipd.xyz
 0.0.0.0	gjkame6.com
 0.0.0.0	gjreg.code.weddingeeos.com
+0.0.0.0	gjt6z9wga.com
 0.0.0.0	gjtrack.uc.cn
 0.0.0.0	gkjmev3.com
 0.0.0.0	gknybkl.cn
@@ -16864,6 +16884,7 @@
 0.0.0.0	godni.xyz
 0.0.0.0	goeyxwhp.site
 0.0.0.0	gog9.qzdfc.com
+0.0.0.0	gohgn02111la.com
 0.0.0.0	goikbnjksdf.com
 0.0.0.0	goingsranchange.com
 0.0.0.0	golden1.sogou.com
@@ -18339,6 +18360,7 @@
 0.0.0.0	j17.xiumu.cn
 0.0.0.0	j1u9nlr3k.cc
 0.0.0.0	j3.jtezxmpb.xyz
+0.0.0.0	j3818xx.cc
 0.0.0.0	j520s.gzcl999.cn
 0.0.0.0	j5z.cn
 0.0.0.0	j5z.cn.w.kunlunaq.com
@@ -22185,6 +22207,7 @@
 0.0.0.0	pp.sxjkc.cn
 0.0.0.0	pp2.dhzw.org
 0.0.0.0	pp2.pptv.com
+0.0.0.0	pp3381a.cc
 0.0.0.0	pp9899.com
 0.0.0.0	ppedp.cn
 0.0.0.0	ppezijkacga.com
