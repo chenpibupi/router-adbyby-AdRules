@@ -2,8 +2,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27792
-! Version: 2026-02-17 10:00:23（北京时间）
+! Total count: 27789
+! Version: 2026-02-17 21:00:41（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -7515,7 +7515,6 @@
 4242jj.com
 4242lll.com
 4242uuu.com
-429: Too Many Requests
 42trck.com
 42yenxh.cn
 43.159.198.195
@@ -10761,8 +10760,6 @@
 @@||zodgame.xyz
 @@||ztgame.com
 @adsmogo.com
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).! Description: 反馈群538268498
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).![个人收集 2.0]
 Media.net
 Mplay/kk1.js
 [个人合并 2.0]

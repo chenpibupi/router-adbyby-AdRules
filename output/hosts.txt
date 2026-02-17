@@ -1,7 +1,7 @@
-# Version: 2026-02-17 17:08:47
+# Version: 2026-02-18 05:00:24
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27632
+# Total domains: 27629
 
 0.0.0.0	!
 0.0.0.0	!
@@ -7520,7 +7520,6 @@
 0.0.0.0	4242jj.com
 0.0.0.0	4242lll.com
 0.0.0.0	4242uuu.com
-0.0.0.0	429:
 0.0.0.0	42trck.com
 0.0.0.0	42yenxh.cn
 0.0.0.0	43.159.198.195
@@ -10766,8 +10765,6 @@
 0.0.0.0	@@||zodgame.xyz
 0.0.0.0	@@||ztgame.com
 0.0.0.0	@adsmogo.com
-0.0.0.0	For
-0.0.0.0	For
 0.0.0.0	Media.net
 0.0.0.0	Mplay/kk1.js
 0.0.0.0	[个人合并
