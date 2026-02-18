@@ -3,8 +3,8 @@
 ! Expires: 12 Hours
 ! Homepage: https://github.com/qq5460168/666
 ! Title: 去广告规则，酷安反馈反馈
-! Total count: 27789
-! Version: 2026-02-17 21:00:41（北京时间）
+! Total count: 27790
+! Version: 2026-02-18 10:04:02（北京时间）
 *-*-*-lrycfv.vip
 *-*.ap-east-1.elb.amazonaws.com
 *-ad-sign.byteimg.com
@@ -387,6 +387,7 @@
 .xyz:*/js/b.php?v=*
 /*/*.add.*.add
 /*_*_aubi.js$third-party
+/*_09c09p09v.js
 /360mse/360mse_*.apk?
 /Distribute/Distribute_g/butterfly/*
 /Public/wap/zymk/js/guanggao.js

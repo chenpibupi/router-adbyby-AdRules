@@ -1,7 +1,7 @@
-# Version: 2026-02-18 05:00:24
+# Version: 2026-02-18 17:07:42
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/chenpibupi/router-adbyby-AdRules
-# Total domains: 27629
+# Total domains: 27630
 
 0.0.0.0	!
 0.0.0.0	!
@@ -391,6 +391,7 @@
 0.0.0.0	.xyz:*/js/b.php?v=*
 0.0.0.0	/*/*.add.*.add
 0.0.0.0	/*_*_aubi.js$third-party
+0.0.0.0	/*_09c09p09v.js
 0.0.0.0	/360mse/360mse_*.apk?
 0.0.0.0	/Distribute/Distribute_g/butterfly/*
 0.0.0.0	/Public/wap/zymk/js/guanggao.js
