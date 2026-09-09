@@ -1,7 +1,7 @@
-# Version: 2026-09-09 06:47:27
+# Version: 2026-09-09 21:01:49
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33347
+# Total domains: 33348
 
 0.0.0.0	!
 0.0.0.0	!
@@ -31788,6 +31788,7 @@
 0.0.0.0	wgnlz.com
 0.0.0.0	wgnmp.com
 0.0.0.0	wgoeisdnlk.com
+0.0.0.0	wgwt5p8.com
 0.0.0.0	whafwl.com
 0.0.0.0	whalecloud.com
 0.0.0.0	whcrdz.com
