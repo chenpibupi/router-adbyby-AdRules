@@ -1,7 +1,7 @@
-# Version: 2026-09-09 21:01:49
+# Version: 2026-09-10 06:38:35
 # Source: https://github.com/qq5460168/666
 # Homepage: https://github.com/nanocch/router-adbyby-AdRules
-# Total domains: 33348
+# Total domains: 33347
 
 0.0.0.0	!
 0.0.0.0	!
@@ -23,7 +23,6 @@
 0.0.0.0	*-be-pack-sign.pglstatp-toutiao.com*
 0.0.0.0	*-inapps.appsflyersdk.com
 0.0.0.0	*-launches.appsflyersdk.com
-0.0.0.0	*-normal.zijieapi.com*
 0.0.0.0	*.*-t0613.vip
 0.0.0.0	*.01fwzb.com
 0.0.0.0	*.04kai.org
@@ -28884,7 +28883,7 @@
 0.0.0.0	safe-aisle.jointreport-switch.com
 0.0.0.0	safe.tsgpay.cn
 0.0.0.0	safebrowsing.apple
-0.0.0.0	safebrowsing.urlsec.gg.com
+0.0.0.0	safebrowsing.urlsec.qq.com
 0.0.0.0	saferwet.com
 0.0.0.0	sahqoo.com
 0.0.0.0	saitef.cn
